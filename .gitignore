@@ -1,0 +1,17 @@
+# Large model binaries
+outputs/**/*.pt
+outputs/**/*.onnx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+dist/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

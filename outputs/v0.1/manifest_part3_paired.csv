@@ -1,0 +1,451 @@
+scene_id,category,image,mask
+lookalike_00000,lookalike,/tmp/data/part3/Images/Lookalike/00000.tif,/tmp/data/part3/Mask/Lookalike/00000_segmentation.tif
+lookalike_00001,lookalike,/tmp/data/part3/Images/Lookalike/00001.tif,/tmp/data/part3/Mask/Lookalike/00001_segmentation.tif
+lookalike_00002,lookalike,/tmp/data/part3/Images/Lookalike/00002.tif,/tmp/data/part3/Mask/Lookalike/00002_segmentation.tif
+lookalike_00003,lookalike,/tmp/data/part3/Images/Lookalike/00003.tif,/tmp/data/part3/Mask/Lookalike/00003_segmentation.tif
+lookalike_00004,lookalike,/tmp/data/part3/Images/Lookalike/00004.tif,/tmp/data/part3/Mask/Lookalike/00004_segmentation.tif
+lookalike_00005,lookalike,/tmp/data/part3/Images/Lookalike/00005.tif,/tmp/data/part3/Mask/Lookalike/00005_segmentation.tif
+lookalike_00006,lookalike,/tmp/data/part3/Images/Lookalike/00006.tif,/tmp/data/part3/Mask/Lookalike/00006_segmentation.tif
+lookalike_00007,lookalike,/tmp/data/part3/Images/Lookalike/00007.tif,/tmp/data/part3/Mask/Lookalike/00007_segmentation.tif
+lookalike_00008,lookalike,/tmp/data/part3/Images/Lookalike/00008.tif,/tmp/data/part3/Mask/Lookalike/00008_segmentation.tif
+lookalike_00009,lookalike,/tmp/data/part3/Images/Lookalike/00009.tif,/tmp/data/part3/Mask/Lookalike/00009_segmentation.tif
+lookalike_00010,lookalike,/tmp/data/part3/Images/Lookalike/00010.tif,/tmp/data/part3/Mask/Lookalike/00010_segmentation.tif
+lookalike_00011,lookalike,/tmp/data/part3/Images/Lookalike/00011.tif,/tmp/data/part3/Mask/Lookalike/00011_segmentation.tif
+lookalike_00012,lookalike,/tmp/data/part3/Images/Lookalike/00012.tif,/tmp/data/part3/Mask/Lookalike/00012_segmentation.tif
+lookalike_00013,lookalike,/tmp/data/part3/Images/Lookalike/00013.tif,/tmp/data/part3/Mask/Lookalike/00013_segmentation.tif
+lookalike_00014,lookalike,/tmp/data/part3/Images/Lookalike/00014.tif,/tmp/data/part3/Mask/Lookalike/00014_segmentation.tif
+lookalike_00015,lookalike,/tmp/data/part3/Images/Lookalike/00015.tif,/tmp/data/part3/Mask/Lookalike/00015_segmentation.tif
+lookalike_00016,lookalike,/tmp/data/part3/Images/Lookalike/00016.tif,/tmp/data/part3/Mask/Lookalike/00016_segmentation.tif
+lookalike_00017,lookalike,/tmp/data/part3/Images/Lookalike/00017.tif,/tmp/data/part3/Mask/Lookalike/00017_segmentation.tif
+lookalike_00018,lookalike,/tmp/data/part3/Images/Lookalike/00018.tif,/tmp/data/part3/Mask/Lookalike/00018_segmentation.tif
+lookalike_00019,lookalike,/tmp/data/part3/Images/Lookalike/00019.tif,/tmp/data/part3/Mask/Lookalike/00019_segmentation.tif
+lookalike_00020,lookalike,/tmp/data/part3/Images/Lookalike/00020.tif,/tmp/data/part3/Mask/Lookalike/00020_segmentation.tif
+lookalike_00021,lookalike,/tmp/data/part3/Images/Lookalike/00021.tif,/tmp/data/part3/Mask/Lookalike/00021_segmentation.tif
+lookalike_00022,lookalike,/tmp/data/part3/Images/Lookalike/00022.tif,/tmp/data/part3/Mask/Lookalike/00022_segmentation.tif
+lookalike_00023,lookalike,/tmp/data/part3/Images/Lookalike/00023.tif,/tmp/data/part3/Mask/Lookalike/00023_segmentation.tif
+lookalike_00024,lookalike,/tmp/data/part3/Images/Lookalike/00024.tif,/tmp/data/part3/Mask/Lookalike/00024_segmentation.tif
+lookalike_00025,lookalike,/tmp/data/part3/Images/Lookalike/00025.tif,/tmp/data/part3/Mask/Lookalike/00025_segmentation.tif
+lookalike_00026,lookalike,/tmp/data/part3/Images/Lookalike/00026.tif,/tmp/data/part3/Mask/Lookalike/00026_segmentation.tif
+lookalike_00027,lookalike,/tmp/data/part3/Images/Lookalike/00027.tif,/tmp/data/part3/Mask/Lookalike/00027_segmentation.tif
+lookalike_00028,lookalike,/tmp/data/part3/Images/Lookalike/00028.tif,/tmp/data/part3/Mask/Lookalike/00028_segmentation.tif
+lookalike_00029,lookalike,/tmp/data/part3/Images/Lookalike/00029.tif,/tmp/data/part3/Mask/Lookalike/00029_segmentation.tif
+lookalike_00030,lookalike,/tmp/data/part3/Images/Lookalike/00030.tif,/tmp/data/part3/Mask/Lookalike/00030_segmentation.tif
+lookalike_00031,lookalike,/tmp/data/part3/Images/Lookalike/00031.tif,/tmp/data/part3/Mask/Lookalike/00031_segmentation.tif
+lookalike_00032,lookalike,/tmp/data/part3/Images/Lookalike/00032.tif,/tmp/data/part3/Mask/Lookalike/00032_segmentation.tif
+lookalike_00033,lookalike,/tmp/data/part3/Images/Lookalike/00033.tif,/tmp/data/part3/Mask/Lookalike/00033_segmentation.tif
+lookalike_00034,lookalike,/tmp/data/part3/Images/Lookalike/00034.tif,/tmp/data/part3/Mask/Lookalike/00034_segmentation.tif
+lookalike_00035,lookalike,/tmp/data/part3/Images/Lookalike/00035.tif,/tmp/data/part3/Mask/Lookalike/00035_segmentation.tif
+lookalike_00036,lookalike,/tmp/data/part3/Images/Lookalike/00036.tif,/tmp/data/part3/Mask/Lookalike/00036_segmentation.tif
+lookalike_00037,lookalike,/tmp/data/part3/Images/Lookalike/00037.tif,/tmp/data/part3/Mask/Lookalike/00037_segmentation.tif
+lookalike_00038,lookalike,/tmp/data/part3/Images/Lookalike/00038.tif,/tmp/data/part3/Mask/Lookalike/00038_segmentation.tif
+lookalike_00039,lookalike,/tmp/data/part3/Images/Lookalike/00039.tif,/tmp/data/part3/Mask/Lookalike/00039_segmentation.tif
+lookalike_00040,lookalike,/tmp/data/part3/Images/Lookalike/00040.tif,/tmp/data/part3/Mask/Lookalike/00040_segmentation.tif
+lookalike_00041,lookalike,/tmp/data/part3/Images/Lookalike/00041.tif,/tmp/data/part3/Mask/Lookalike/00041_segmentation.tif
+lookalike_00042,lookalike,/tmp/data/part3/Images/Lookalike/00042.tif,/tmp/data/part3/Mask/Lookalike/00042_segmentation.tif
+lookalike_00043,lookalike,/tmp/data/part3/Images/Lookalike/00043.tif,/tmp/data/part3/Mask/Lookalike/00043_segmentation.tif
+lookalike_00044,lookalike,/tmp/data/part3/Images/Lookalike/00044.tif,/tmp/data/part3/Mask/Lookalike/00044_segmentation.tif
+lookalike_00045,lookalike,/tmp/data/part3/Images/Lookalike/00045.tif,/tmp/data/part3/Mask/Lookalike/00045_segmentation.tif
+lookalike_00046,lookalike,/tmp/data/part3/Images/Lookalike/00046.tif,/tmp/data/part3/Mask/Lookalike/00046_segmentation.tif
+lookalike_00047,lookalike,/tmp/data/part3/Images/Lookalike/00047.tif,/tmp/data/part3/Mask/Lookalike/00047_segmentation.tif
+lookalike_00048,lookalike,/tmp/data/part3/Images/Lookalike/00048.tif,/tmp/data/part3/Mask/Lookalike/00048_segmentation.tif
+lookalike_00049,lookalike,/tmp/data/part3/Images/Lookalike/00049.tif,/tmp/data/part3/Mask/Lookalike/00049_segmentation.tif
+lookalike_00050,lookalike,/tmp/data/part3/Images/Lookalike/00050.tif,/tmp/data/part3/Mask/Lookalike/00050_segmentation.tif
+lookalike_00051,lookalike,/tmp/data/part3/Images/Lookalike/00051.tif,/tmp/data/part3/Mask/Lookalike/00051_segmentation.tif
+lookalike_00052,lookalike,/tmp/data/part3/Images/Lookalike/00052.tif,/tmp/data/part3/Mask/Lookalike/00052_segmentation.tif
+lookalike_00053,lookalike,/tmp/data/part3/Images/Lookalike/00053.tif,/tmp/data/part3/Mask/Lookalike/00053_segmentation.tif
+lookalike_00054,lookalike,/tmp/data/part3/Images/Lookalike/00054.tif,/tmp/data/part3/Mask/Lookalike/00054_segmentation.tif
+lookalike_00055,lookalike,/tmp/data/part3/Images/Lookalike/00055.tif,/tmp/data/part3/Mask/Lookalike/00055_segmentation.tif
+lookalike_00056,lookalike,/tmp/data/part3/Images/Lookalike/00056.tif,/tmp/data/part3/Mask/Lookalike/00056_segmentation.tif
+lookalike_00057,lookalike,/tmp/data/part3/Images/Lookalike/00057.tif,/tmp/data/part3/Mask/Lookalike/00057_segmentation.tif
+lookalike_00058,lookalike,/tmp/data/part3/Images/Lookalike/00058.tif,/tmp/data/part3/Mask/Lookalike/00058_segmentation.tif
+lookalike_00059,lookalike,/tmp/data/part3/Images/Lookalike/00059.tif,/tmp/data/part3/Mask/Lookalike/00059_segmentation.tif
+lookalike_00060,lookalike,/tmp/data/part3/Images/Lookalike/00060.tif,/tmp/data/part3/Mask/Lookalike/00060_segmentation.tif
+lookalike_00061,lookalike,/tmp/data/part3/Images/Lookalike/00061.tif,/tmp/data/part3/Mask/Lookalike/00061_segmentation.tif
+lookalike_00062,lookalike,/tmp/data/part3/Images/Lookalike/00062.tif,/tmp/data/part3/Mask/Lookalike/00062_segmentation.tif
+lookalike_00063,lookalike,/tmp/data/part3/Images/Lookalike/00063.tif,/tmp/data/part3/Mask/Lookalike/00063_segmentation.tif
+lookalike_00064,lookalike,/tmp/data/part3/Images/Lookalike/00064.tif,/tmp/data/part3/Mask/Lookalike/00064_segmentation.tif
+lookalike_00065,lookalike,/tmp/data/part3/Images/Lookalike/00065.tif,/tmp/data/part3/Mask/Lookalike/00065_segmentation.tif
+lookalike_00066,lookalike,/tmp/data/part3/Images/Lookalike/00066.tif,/tmp/data/part3/Mask/Lookalike/00066_segmentation.tif
+lookalike_00067,lookalike,/tmp/data/part3/Images/Lookalike/00067.tif,/tmp/data/part3/Mask/Lookalike/00067_segmentation.tif
+lookalike_00068,lookalike,/tmp/data/part3/Images/Lookalike/00068.tif,/tmp/data/part3/Mask/Lookalike/00068_segmentation.tif
+lookalike_00069,lookalike,/tmp/data/part3/Images/Lookalike/00069.tif,/tmp/data/part3/Mask/Lookalike/00069_segmentation.tif
+lookalike_00070,lookalike,/tmp/data/part3/Images/Lookalike/00070.tif,/tmp/data/part3/Mask/Lookalike/00070_segmentation.tif
+lookalike_00071,lookalike,/tmp/data/part3/Images/Lookalike/00071.tif,/tmp/data/part3/Mask/Lookalike/00071_segmentation.tif
+lookalike_00072,lookalike,/tmp/data/part3/Images/Lookalike/00072.tif,/tmp/data/part3/Mask/Lookalike/00072_segmentation.tif
+lookalike_00073,lookalike,/tmp/data/part3/Images/Lookalike/00073.tif,/tmp/data/part3/Mask/Lookalike/00073_segmentation.tif
+lookalike_00074,lookalike,/tmp/data/part3/Images/Lookalike/00074.tif,/tmp/data/part3/Mask/Lookalike/00074_segmentation.tif
+lookalike_00075,lookalike,/tmp/data/part3/Images/Lookalike/00075.tif,/tmp/data/part3/Mask/Lookalike/00075_segmentation.tif
+lookalike_00076,lookalike,/tmp/data/part3/Images/Lookalike/00076.tif,/tmp/data/part3/Mask/Lookalike/00076_segmentation.tif
+lookalike_00077,lookalike,/tmp/data/part3/Images/Lookalike/00077.tif,/tmp/data/part3/Mask/Lookalike/00077_segmentation.tif
+lookalike_00078,lookalike,/tmp/data/part3/Images/Lookalike/00078.tif,/tmp/data/part3/Mask/Lookalike/00078_segmentation.tif
+lookalike_00079,lookalike,/tmp/data/part3/Images/Lookalike/00079.tif,/tmp/data/part3/Mask/Lookalike/00079_segmentation.tif
+lookalike_00080,lookalike,/tmp/data/part3/Images/Lookalike/00080.tif,/tmp/data/part3/Mask/Lookalike/00080_segmentation.tif
+lookalike_00081,lookalike,/tmp/data/part3/Images/Lookalike/00081.tif,/tmp/data/part3/Mask/Lookalike/00081_segmentation.tif
+lookalike_00082,lookalike,/tmp/data/part3/Images/Lookalike/00082.tif,/tmp/data/part3/Mask/Lookalike/00082_segmentation.tif
+lookalike_00083,lookalike,/tmp/data/part3/Images/Lookalike/00083.tif,/tmp/data/part3/Mask/Lookalike/00083_segmentation.tif
+lookalike_00084,lookalike,/tmp/data/part3/Images/Lookalike/00084.tif,/tmp/data/part3/Mask/Lookalike/00084_segmentation.tif
+lookalike_00085,lookalike,/tmp/data/part3/Images/Lookalike/00085.tif,/tmp/data/part3/Mask/Lookalike/00085_segmentation.tif
+lookalike_00086,lookalike,/tmp/data/part3/Images/Lookalike/00086.tif,/tmp/data/part3/Mask/Lookalike/00086_segmentation.tif
+lookalike_00087,lookalike,/tmp/data/part3/Images/Lookalike/00087.tif,/tmp/data/part3/Mask/Lookalike/00087_segmentation.tif
+lookalike_00088,lookalike,/tmp/data/part3/Images/Lookalike/00088.tif,/tmp/data/part3/Mask/Lookalike/00088_segmentation.tif
+lookalike_00089,lookalike,/tmp/data/part3/Images/Lookalike/00089.tif,/tmp/data/part3/Mask/Lookalike/00089_segmentation.tif
+lookalike_00090,lookalike,/tmp/data/part3/Images/Lookalike/00090.tif,/tmp/data/part3/Mask/Lookalike/00090_segmentation.tif
+lookalike_00091,lookalike,/tmp/data/part3/Images/Lookalike/00091.tif,/tmp/data/part3/Mask/Lookalike/00091_segmentation.tif
+lookalike_00092,lookalike,/tmp/data/part3/Images/Lookalike/00092.tif,/tmp/data/part3/Mask/Lookalike/00092_segmentation.tif
+lookalike_00093,lookalike,/tmp/data/part3/Images/Lookalike/00093.tif,/tmp/data/part3/Mask/Lookalike/00093_segmentation.tif
+lookalike_00094,lookalike,/tmp/data/part3/Images/Lookalike/00094.tif,/tmp/data/part3/Mask/Lookalike/00094_segmentation.tif
+lookalike_00095,lookalike,/tmp/data/part3/Images/Lookalike/00095.tif,/tmp/data/part3/Mask/Lookalike/00095_segmentation.tif
+lookalike_00096,lookalike,/tmp/data/part3/Images/Lookalike/00096.tif,/tmp/data/part3/Mask/Lookalike/00096_segmentation.tif
+lookalike_00097,lookalike,/tmp/data/part3/Images/Lookalike/00097.tif,/tmp/data/part3/Mask/Lookalike/00097_segmentation.tif
+lookalike_00098,lookalike,/tmp/data/part3/Images/Lookalike/00098.tif,/tmp/data/part3/Mask/Lookalike/00098_segmentation.tif
+lookalike_00099,lookalike,/tmp/data/part3/Images/Lookalike/00099.tif,/tmp/data/part3/Mask/Lookalike/00099_segmentation.tif
+lookalike_00100,lookalike,/tmp/data/part3/Images/Lookalike/00100.tif,/tmp/data/part3/Mask/Lookalike/00100_segmentation.tif
+lookalike_00101,lookalike,/tmp/data/part3/Images/Lookalike/00101.tif,/tmp/data/part3/Mask/Lookalike/00101_segmentation.tif
+lookalike_00102,lookalike,/tmp/data/part3/Images/Lookalike/00102.tif,/tmp/data/part3/Mask/Lookalike/00102_segmentation.tif
+lookalike_00103,lookalike,/tmp/data/part3/Images/Lookalike/00103.tif,/tmp/data/part3/Mask/Lookalike/00103_segmentation.tif
+lookalike_00104,lookalike,/tmp/data/part3/Images/Lookalike/00104.tif,/tmp/data/part3/Mask/Lookalike/00104_segmentation.tif
+lookalike_00105,lookalike,/tmp/data/part3/Images/Lookalike/00105.tif,/tmp/data/part3/Mask/Lookalike/00105_segmentation.tif
+lookalike_00106,lookalike,/tmp/data/part3/Images/Lookalike/00106.tif,/tmp/data/part3/Mask/Lookalike/00106_segmentation.tif
+lookalike_00107,lookalike,/tmp/data/part3/Images/Lookalike/00107.tif,/tmp/data/part3/Mask/Lookalike/00107_segmentation.tif
+lookalike_00108,lookalike,/tmp/data/part3/Images/Lookalike/00108.tif,/tmp/data/part3/Mask/Lookalike/00108_segmentation.tif
+lookalike_00109,lookalike,/tmp/data/part3/Images/Lookalike/00109.tif,/tmp/data/part3/Mask/Lookalike/00109_segmentation.tif
+lookalike_00110,lookalike,/tmp/data/part3/Images/Lookalike/00110.tif,/tmp/data/part3/Mask/Lookalike/00110_segmentation.tif
+lookalike_00111,lookalike,/tmp/data/part3/Images/Lookalike/00111.tif,/tmp/data/part3/Mask/Lookalike/00111_segmentation.tif
+lookalike_00112,lookalike,/tmp/data/part3/Images/Lookalike/00112.tif,/tmp/data/part3/Mask/Lookalike/00112_segmentation.tif
+lookalike_00113,lookalike,/tmp/data/part3/Images/Lookalike/00113.tif,/tmp/data/part3/Mask/Lookalike/00113_segmentation.tif
+lookalike_00114,lookalike,/tmp/data/part3/Images/Lookalike/00114.tif,/tmp/data/part3/Mask/Lookalike/00114_segmentation.tif
+lookalike_00115,lookalike,/tmp/data/part3/Images/Lookalike/00115.tif,/tmp/data/part3/Mask/Lookalike/00115_segmentation.tif
+lookalike_00116,lookalike,/tmp/data/part3/Images/Lookalike/00116.tif,/tmp/data/part3/Mask/Lookalike/00116_segmentation.tif
+lookalike_00117,lookalike,/tmp/data/part3/Images/Lookalike/00117.tif,/tmp/data/part3/Mask/Lookalike/00117_segmentation.tif
+lookalike_00118,lookalike,/tmp/data/part3/Images/Lookalike/00118.tif,/tmp/data/part3/Mask/Lookalike/00118_segmentation.tif
+lookalike_00119,lookalike,/tmp/data/part3/Images/Lookalike/00119.tif,/tmp/data/part3/Mask/Lookalike/00119_segmentation.tif
+lookalike_00120,lookalike,/tmp/data/part3/Images/Lookalike/00120.tif,/tmp/data/part3/Mask/Lookalike/00120_segmentation.tif
+lookalike_00121,lookalike,/tmp/data/part3/Images/Lookalike/00121.tif,/tmp/data/part3/Mask/Lookalike/00121_segmentation.tif
+lookalike_00122,lookalike,/tmp/data/part3/Images/Lookalike/00122.tif,/tmp/data/part3/Mask/Lookalike/00122_segmentation.tif
+lookalike_00123,lookalike,/tmp/data/part3/Images/Lookalike/00123.tif,/tmp/data/part3/Mask/Lookalike/00123_segmentation.tif
+lookalike_00124,lookalike,/tmp/data/part3/Images/Lookalike/00124.tif,/tmp/data/part3/Mask/Lookalike/00124_segmentation.tif
+lookalike_00125,lookalike,/tmp/data/part3/Images/Lookalike/00125.tif,/tmp/data/part3/Mask/Lookalike/00125_segmentation.tif
+lookalike_00126,lookalike,/tmp/data/part3/Images/Lookalike/00126.tif,/tmp/data/part3/Mask/Lookalike/00126_segmentation.tif
+lookalike_00127,lookalike,/tmp/data/part3/Images/Lookalike/00127.tif,/tmp/data/part3/Mask/Lookalike/00127_segmentation.tif
+lookalike_00128,lookalike,/tmp/data/part3/Images/Lookalike/00128.tif,/tmp/data/part3/Mask/Lookalike/00128_segmentation.tif
+lookalike_00129,lookalike,/tmp/data/part3/Images/Lookalike/00129.tif,/tmp/data/part3/Mask/Lookalike/00129_segmentation.tif
+lookalike_00130,lookalike,/tmp/data/part3/Images/Lookalike/00130.tif,/tmp/data/part3/Mask/Lookalike/00130_segmentation.tif
+lookalike_00131,lookalike,/tmp/data/part3/Images/Lookalike/00131.tif,/tmp/data/part3/Mask/Lookalike/00131_segmentation.tif
+lookalike_00132,lookalike,/tmp/data/part3/Images/Lookalike/00132.tif,/tmp/data/part3/Mask/Lookalike/00132_segmentation.tif
+lookalike_00133,lookalike,/tmp/data/part3/Images/Lookalike/00133.tif,/tmp/data/part3/Mask/Lookalike/00133_segmentation.tif
+lookalike_00134,lookalike,/tmp/data/part3/Images/Lookalike/00134.tif,/tmp/data/part3/Mask/Lookalike/00134_segmentation.tif
+lookalike_00135,lookalike,/tmp/data/part3/Images/Lookalike/00135.tif,/tmp/data/part3/Mask/Lookalike/00135_segmentation.tif
+lookalike_00136,lookalike,/tmp/data/part3/Images/Lookalike/00136.tif,/tmp/data/part3/Mask/Lookalike/00136_segmentation.tif
+lookalike_00137,lookalike,/tmp/data/part3/Images/Lookalike/00137.tif,/tmp/data/part3/Mask/Lookalike/00137_segmentation.tif
+lookalike_00138,lookalike,/tmp/data/part3/Images/Lookalike/00138.tif,/tmp/data/part3/Mask/Lookalike/00138_segmentation.tif
+lookalike_00139,lookalike,/tmp/data/part3/Images/Lookalike/00139.tif,/tmp/data/part3/Mask/Lookalike/00139_segmentation.tif
+lookalike_00140,lookalike,/tmp/data/part3/Images/Lookalike/00140.tif,/tmp/data/part3/Mask/Lookalike/00140_segmentation.tif
+lookalike_00141,lookalike,/tmp/data/part3/Images/Lookalike/00141.tif,/tmp/data/part3/Mask/Lookalike/00141_segmentation.tif
+lookalike_00142,lookalike,/tmp/data/part3/Images/Lookalike/00142.tif,/tmp/data/part3/Mask/Lookalike/00142_segmentation.tif
+lookalike_00143,lookalike,/tmp/data/part3/Images/Lookalike/00143.tif,/tmp/data/part3/Mask/Lookalike/00143_segmentation.tif
+lookalike_00144,lookalike,/tmp/data/part3/Images/Lookalike/00144.tif,/tmp/data/part3/Mask/Lookalike/00144_segmentation.tif
+lookalike_00145,lookalike,/tmp/data/part3/Images/Lookalike/00145.tif,/tmp/data/part3/Mask/Lookalike/00145_segmentation.tif
+lookalike_00146,lookalike,/tmp/data/part3/Images/Lookalike/00146.tif,/tmp/data/part3/Mask/Lookalike/00146_segmentation.tif
+lookalike_00147,lookalike,/tmp/data/part3/Images/Lookalike/00147.tif,/tmp/data/part3/Mask/Lookalike/00147_segmentation.tif
+lookalike_00148,lookalike,/tmp/data/part3/Images/Lookalike/00148.tif,/tmp/data/part3/Mask/Lookalike/00148_segmentation.tif
+lookalike_00149,lookalike,/tmp/data/part3/Images/Lookalike/00149.tif,/tmp/data/part3/Mask/Lookalike/00149_segmentation.tif
+clean_00000,clean,/tmp/data/part3/Images/No oil/00000.tif,/tmp/data/part3/Mask/No oil/00000_segmentation.tif
+clean_00001,clean,/tmp/data/part3/Images/No oil/00001.tif,/tmp/data/part3/Mask/No oil/00001_segmentation.tif
+clean_00002,clean,/tmp/data/part3/Images/No oil/00002.tif,/tmp/data/part3/Mask/No oil/00002_segmentation.tif
+clean_00003,clean,/tmp/data/part3/Images/No oil/00003.tif,/tmp/data/part3/Mask/No oil/00003_segmentation.tif
+clean_00004,clean,/tmp/data/part3/Images/No oil/00004.tif,/tmp/data/part3/Mask/No oil/00004_segmentation.tif
+clean_00005,clean,/tmp/data/part3/Images/No oil/00005.tif,/tmp/data/part3/Mask/No oil/00005_segmentation.tif
+clean_00006,clean,/tmp/data/part3/Images/No oil/00006.tif,/tmp/data/part3/Mask/No oil/00006_segmentation.tif
+clean_00007,clean,/tmp/data/part3/Images/No oil/00007.tif,/tmp/data/part3/Mask/No oil/00007_segmentation.tif
+clean_00008,clean,/tmp/data/part3/Images/No oil/00008.tif,/tmp/data/part3/Mask/No oil/00008_segmentation.tif
+clean_00009,clean,/tmp/data/part3/Images/No oil/00009.tif,/tmp/data/part3/Mask/No oil/00009_segmentation.tif
+clean_00010,clean,/tmp/data/part3/Images/No oil/00010.tif,/tmp/data/part3/Mask/No oil/00010_segmentation.tif
+clean_00011,clean,/tmp/data/part3/Images/No oil/00011.tif,/tmp/data/part3/Mask/No oil/00011_segmentation.tif
+clean_00012,clean,/tmp/data/part3/Images/No oil/00012.tif,/tmp/data/part3/Mask/No oil/00012_segmentation.tif
+clean_00013,clean,/tmp/data/part3/Images/No oil/00013.tif,/tmp/data/part3/Mask/No oil/00013_segmentation.tif
+clean_00014,clean,/tmp/data/part3/Images/No oil/00014.tif,/tmp/data/part3/Mask/No oil/00014_segmentation.tif
+clean_00015,clean,/tmp/data/part3/Images/No oil/00015.tif,/tmp/data/part3/Mask/No oil/00015_segmentation.tif
+clean_00016,clean,/tmp/data/part3/Images/No oil/00016.tif,/tmp/data/part3/Mask/No oil/00016_segmentation.tif
+clean_00017,clean,/tmp/data/part3/Images/No oil/00017.tif,/tmp/data/part3/Mask/No oil/00017_segmentation.tif
+clean_00018,clean,/tmp/data/part3/Images/No oil/00018.tif,/tmp/data/part3/Mask/No oil/00018_segmentation.tif
+clean_00019,clean,/tmp/data/part3/Images/No oil/00019.tif,/tmp/data/part3/Mask/No oil/00019_segmentation.tif
+clean_00020,clean,/tmp/data/part3/Images/No oil/00020.tif,/tmp/data/part3/Mask/No oil/00020_segmentation.tif
+clean_00021,clean,/tmp/data/part3/Images/No oil/00021.tif,/tmp/data/part3/Mask/No oil/00021_segmentation.tif
+clean_00022,clean,/tmp/data/part3/Images/No oil/00022.tif,/tmp/data/part3/Mask/No oil/00022_segmentation.tif
+clean_00023,clean,/tmp/data/part3/Images/No oil/00023.tif,/tmp/data/part3/Mask/No oil/00023_segmentation.tif
+clean_00024,clean,/tmp/data/part3/Images/No oil/00024.tif,/tmp/data/part3/Mask/No oil/00024_segmentation.tif
+clean_00025,clean,/tmp/data/part3/Images/No oil/00025.tif,/tmp/data/part3/Mask/No oil/00025_segmentation.tif
+clean_00026,clean,/tmp/data/part3/Images/No oil/00026.tif,/tmp/data/part3/Mask/No oil/00026_segmentation.tif
+clean_00027,clean,/tmp/data/part3/Images/No oil/00027.tif,/tmp/data/part3/Mask/No oil/00027_segmentation.tif
+clean_00028,clean,/tmp/data/part3/Images/No oil/00028.tif,/tmp/data/part3/Mask/No oil/00028_segmentation.tif
+clean_00029,clean,/tmp/data/part3/Images/No oil/00029.tif,/tmp/data/part3/Mask/No oil/00029_segmentation.tif
+clean_00030,clean,/tmp/data/part3/Images/No oil/00030.tif,/tmp/data/part3/Mask/No oil/00030_segmentation.tif
+clean_00031,clean,/tmp/data/part3/Images/No oil/00031.tif,/tmp/data/part3/Mask/No oil/00031_segmentation.tif
+clean_00032,clean,/tmp/data/part3/Images/No oil/00032.tif,/tmp/data/part3/Mask/No oil/00032_segmentation.tif
+clean_00033,clean,/tmp/data/part3/Images/No oil/00033.tif,/tmp/data/part3/Mask/No oil/00033_segmentation.tif
+clean_00034,clean,/tmp/data/part3/Images/No oil/00034.tif,/tmp/data/part3/Mask/No oil/00034_segmentation.tif
+clean_00035,clean,/tmp/data/part3/Images/No oil/00035.tif,/tmp/data/part3/Mask/No oil/00035_segmentation.tif
+clean_00036,clean,/tmp/data/part3/Images/No oil/00036.tif,/tmp/data/part3/Mask/No oil/00036_segmentation.tif
+clean_00037,clean,/tmp/data/part3/Images/No oil/00037.tif,/tmp/data/part3/Mask/No oil/00037_segmentation.tif
+clean_00038,clean,/tmp/data/part3/Images/No oil/00038.tif,/tmp/data/part3/Mask/No oil/00038_segmentation.tif
+clean_00039,clean,/tmp/data/part3/Images/No oil/00039.tif,/tmp/data/part3/Mask/No oil/00039_segmentation.tif
+clean_00040,clean,/tmp/data/part3/Images/No oil/00040.tif,/tmp/data/part3/Mask/No oil/00040_segmentation.tif
+clean_00041,clean,/tmp/data/part3/Images/No oil/00041.tif,/tmp/data/part3/Mask/No oil/00041_segmentation.tif
+clean_00042,clean,/tmp/data/part3/Images/No oil/00042.tif,/tmp/data/part3/Mask/No oil/00042_segmentation.tif
+clean_00043,clean,/tmp/data/part3/Images/No oil/00043.tif,/tmp/data/part3/Mask/No oil/00043_segmentation.tif
+clean_00044,clean,/tmp/data/part3/Images/No oil/00044.tif,/tmp/data/part3/Mask/No oil/00044_segmentation.tif
+clean_00045,clean,/tmp/data/part3/Images/No oil/00045.tif,/tmp/data/part3/Mask/No oil/00045_segmentation.tif
+clean_00046,clean,/tmp/data/part3/Images/No oil/00046.tif,/tmp/data/part3/Mask/No oil/00046_segmentation.tif
+clean_00047,clean,/tmp/data/part3/Images/No oil/00047.tif,/tmp/data/part3/Mask/No oil/00047_segmentation.tif
+clean_00048,clean,/tmp/data/part3/Images/No oil/00048.tif,/tmp/data/part3/Mask/No oil/00048_segmentation.tif
+clean_00049,clean,/tmp/data/part3/Images/No oil/00049.tif,/tmp/data/part3/Mask/No oil/00049_segmentation.tif
+clean_00050,clean,/tmp/data/part3/Images/No oil/00050.tif,/tmp/data/part3/Mask/No oil/00050_segmentation.tif
+clean_00051,clean,/tmp/data/part3/Images/No oil/00051.tif,/tmp/data/part3/Mask/No oil/00051_segmentation.tif
+clean_00052,clean,/tmp/data/part3/Images/No oil/00052.tif,/tmp/data/part3/Mask/No oil/00052_segmentation.tif
+clean_00053,clean,/tmp/data/part3/Images/No oil/00053.tif,/tmp/data/part3/Mask/No oil/00053_segmentation.tif
+clean_00054,clean,/tmp/data/part3/Images/No oil/00054.tif,/tmp/data/part3/Mask/No oil/00054_segmentation.tif
+clean_00055,clean,/tmp/data/part3/Images/No oil/00055.tif,/tmp/data/part3/Mask/No oil/00055_segmentation.tif
+clean_00056,clean,/tmp/data/part3/Images/No oil/00056.tif,/tmp/data/part3/Mask/No oil/00056_segmentation.tif
+clean_00057,clean,/tmp/data/part3/Images/No oil/00057.tif,/tmp/data/part3/Mask/No oil/00057_segmentation.tif
+clean_00058,clean,/tmp/data/part3/Images/No oil/00058.tif,/tmp/data/part3/Mask/No oil/00058_segmentation.tif
+clean_00059,clean,/tmp/data/part3/Images/No oil/00059.tif,/tmp/data/part3/Mask/No oil/00059_segmentation.tif
+clean_00060,clean,/tmp/data/part3/Images/No oil/00060.tif,/tmp/data/part3/Mask/No oil/00060_segmentation.tif
+clean_00061,clean,/tmp/data/part3/Images/No oil/00061.tif,/tmp/data/part3/Mask/No oil/00061_segmentation.tif
+clean_00062,clean,/tmp/data/part3/Images/No oil/00062.tif,/tmp/data/part3/Mask/No oil/00062_segmentation.tif
+clean_00063,clean,/tmp/data/part3/Images/No oil/00063.tif,/tmp/data/part3/Mask/No oil/00063_segmentation.tif
+clean_00064,clean,/tmp/data/part3/Images/No oil/00064.tif,/tmp/data/part3/Mask/No oil/00064_segmentation.tif
+clean_00065,clean,/tmp/data/part3/Images/No oil/00065.tif,/tmp/data/part3/Mask/No oil/00065_segmentation.tif
+clean_00066,clean,/tmp/data/part3/Images/No oil/00066.tif,/tmp/data/part3/Mask/No oil/00066_segmentation.tif
+clean_00067,clean,/tmp/data/part3/Images/No oil/00067.tif,/tmp/data/part3/Mask/No oil/00067_segmentation.tif
+clean_00068,clean,/tmp/data/part3/Images/No oil/00068.tif,/tmp/data/part3/Mask/No oil/00068_segmentation.tif
+clean_00069,clean,/tmp/data/part3/Images/No oil/00069.tif,/tmp/data/part3/Mask/No oil/00069_segmentation.tif
+clean_00070,clean,/tmp/data/part3/Images/No oil/00070.tif,/tmp/data/part3/Mask/No oil/00070_segmentation.tif
+clean_00071,clean,/tmp/data/part3/Images/No oil/00071.tif,/tmp/data/part3/Mask/No oil/00071_segmentation.tif
+clean_00072,clean,/tmp/data/part3/Images/No oil/00072.tif,/tmp/data/part3/Mask/No oil/00072_segmentation.tif
+clean_00073,clean,/tmp/data/part3/Images/No oil/00073.tif,/tmp/data/part3/Mask/No oil/00073_segmentation.tif
+clean_00074,clean,/tmp/data/part3/Images/No oil/00074.tif,/tmp/data/part3/Mask/No oil/00074_segmentation.tif
+clean_00075,clean,/tmp/data/part3/Images/No oil/00075.tif,/tmp/data/part3/Mask/No oil/00075_segmentation.tif
+clean_00076,clean,/tmp/data/part3/Images/No oil/00076.tif,/tmp/data/part3/Mask/No oil/00076_segmentation.tif
+clean_00077,clean,/tmp/data/part3/Images/No oil/00077.tif,/tmp/data/part3/Mask/No oil/00077_segmentation.tif
+clean_00078,clean,/tmp/data/part3/Images/No oil/00078.tif,/tmp/data/part3/Mask/No oil/00078_segmentation.tif
+clean_00079,clean,/tmp/data/part3/Images/No oil/00079.tif,/tmp/data/part3/Mask/No oil/00079_segmentation.tif
+clean_00080,clean,/tmp/data/part3/Images/No oil/00080.tif,/tmp/data/part3/Mask/No oil/00080_segmentation.tif
+clean_00081,clean,/tmp/data/part3/Images/No oil/00081.tif,/tmp/data/part3/Mask/No oil/00081_segmentation.tif
+clean_00082,clean,/tmp/data/part3/Images/No oil/00082.tif,/tmp/data/part3/Mask/No oil/00082_segmentation.tif
+clean_00083,clean,/tmp/data/part3/Images/No oil/00083.tif,/tmp/data/part3/Mask/No oil/00083_segmentation.tif
+clean_00084,clean,/tmp/data/part3/Images/No oil/00084.tif,/tmp/data/part3/Mask/No oil/00084_segmentation.tif
+clean_00085,clean,/tmp/data/part3/Images/No oil/00085.tif,/tmp/data/part3/Mask/No oil/00085_segmentation.tif
+clean_00086,clean,/tmp/data/part3/Images/No oil/00086.tif,/tmp/data/part3/Mask/No oil/00086_segmentation.tif
+clean_00087,clean,/tmp/data/part3/Images/No oil/00087.tif,/tmp/data/part3/Mask/No oil/00087_segmentation.tif
+clean_00088,clean,/tmp/data/part3/Images/No oil/00088.tif,/tmp/data/part3/Mask/No oil/00088_segmentation.tif
+clean_00089,clean,/tmp/data/part3/Images/No oil/00089.tif,/tmp/data/part3/Mask/No oil/00089_segmentation.tif
+clean_00090,clean,/tmp/data/part3/Images/No oil/00090.tif,/tmp/data/part3/Mask/No oil/00090_segmentation.tif
+clean_00091,clean,/tmp/data/part3/Images/No oil/00091.tif,/tmp/data/part3/Mask/No oil/00091_segmentation.tif
+clean_00092,clean,/tmp/data/part3/Images/No oil/00092.tif,/tmp/data/part3/Mask/No oil/00092_segmentation.tif
+clean_00093,clean,/tmp/data/part3/Images/No oil/00093.tif,/tmp/data/part3/Mask/No oil/00093_segmentation.tif
+clean_00094,clean,/tmp/data/part3/Images/No oil/00094.tif,/tmp/data/part3/Mask/No oil/00094_segmentation.tif
+clean_00095,clean,/tmp/data/part3/Images/No oil/00095.tif,/tmp/data/part3/Mask/No oil/00095_segmentation.tif
+clean_00096,clean,/tmp/data/part3/Images/No oil/00096.tif,/tmp/data/part3/Mask/No oil/00096_segmentation.tif
+clean_00097,clean,/tmp/data/part3/Images/No oil/00097.tif,/tmp/data/part3/Mask/No oil/00097_segmentation.tif
+clean_00098,clean,/tmp/data/part3/Images/No oil/00098.tif,/tmp/data/part3/Mask/No oil/00098_segmentation.tif
+clean_00099,clean,/tmp/data/part3/Images/No oil/00099.tif,/tmp/data/part3/Mask/No oil/00099_segmentation.tif
+clean_00100,clean,/tmp/data/part3/Images/No oil/00100.tif,/tmp/data/part3/Mask/No oil/00100_segmentation.tif
+clean_00101,clean,/tmp/data/part3/Images/No oil/00101.tif,/tmp/data/part3/Mask/No oil/00101_segmentation.tif
+clean_00102,clean,/tmp/data/part3/Images/No oil/00102.tif,/tmp/data/part3/Mask/No oil/00102_segmentation.tif
+clean_00103,clean,/tmp/data/part3/Images/No oil/00103.tif,/tmp/data/part3/Mask/No oil/00103_segmentation.tif
+clean_00104,clean,/tmp/data/part3/Images/No oil/00104.tif,/tmp/data/part3/Mask/No oil/00104_segmentation.tif
+clean_00105,clean,/tmp/data/part3/Images/No oil/00105.tif,/tmp/data/part3/Mask/No oil/00105_segmentation.tif
+clean_00106,clean,/tmp/data/part3/Images/No oil/00106.tif,/tmp/data/part3/Mask/No oil/00106_segmentation.tif
+clean_00107,clean,/tmp/data/part3/Images/No oil/00107.tif,/tmp/data/part3/Mask/No oil/00107_segmentation.tif
+clean_00108,clean,/tmp/data/part3/Images/No oil/00108.tif,/tmp/data/part3/Mask/No oil/00108_segmentation.tif
+clean_00109,clean,/tmp/data/part3/Images/No oil/00109.tif,/tmp/data/part3/Mask/No oil/00109_segmentation.tif
+clean_00110,clean,/tmp/data/part3/Images/No oil/00110.tif,/tmp/data/part3/Mask/No oil/00110_segmentation.tif
+clean_00111,clean,/tmp/data/part3/Images/No oil/00111.tif,/tmp/data/part3/Mask/No oil/00111_segmentation.tif
+clean_00112,clean,/tmp/data/part3/Images/No oil/00112.tif,/tmp/data/part3/Mask/No oil/00112_segmentation.tif
+clean_00113,clean,/tmp/data/part3/Images/No oil/00113.tif,/tmp/data/part3/Mask/No oil/00113_segmentation.tif
+clean_00114,clean,/tmp/data/part3/Images/No oil/00114.tif,/tmp/data/part3/Mask/No oil/00114_segmentation.tif
+clean_00115,clean,/tmp/data/part3/Images/No oil/00115.tif,/tmp/data/part3/Mask/No oil/00115_segmentation.tif
+clean_00116,clean,/tmp/data/part3/Images/No oil/00116.tif,/tmp/data/part3/Mask/No oil/00116_segmentation.tif
+clean_00117,clean,/tmp/data/part3/Images/No oil/00117.tif,/tmp/data/part3/Mask/No oil/00117_segmentation.tif
+clean_00118,clean,/tmp/data/part3/Images/No oil/00118.tif,/tmp/data/part3/Mask/No oil/00118_segmentation.tif
+clean_00119,clean,/tmp/data/part3/Images/No oil/00119.tif,/tmp/data/part3/Mask/No oil/00119_segmentation.tif
+clean_00120,clean,/tmp/data/part3/Images/No oil/00120.tif,/tmp/data/part3/Mask/No oil/00120_segmentation.tif
+clean_00121,clean,/tmp/data/part3/Images/No oil/00121.tif,/tmp/data/part3/Mask/No oil/00121_segmentation.tif
+clean_00122,clean,/tmp/data/part3/Images/No oil/00122.tif,/tmp/data/part3/Mask/No oil/00122_segmentation.tif
+clean_00123,clean,/tmp/data/part3/Images/No oil/00123.tif,/tmp/data/part3/Mask/No oil/00123_segmentation.tif
+clean_00124,clean,/tmp/data/part3/Images/No oil/00124.tif,/tmp/data/part3/Mask/No oil/00124_segmentation.tif
+clean_00125,clean,/tmp/data/part3/Images/No oil/00125.tif,/tmp/data/part3/Mask/No oil/00125_segmentation.tif
+clean_00126,clean,/tmp/data/part3/Images/No oil/00126.tif,/tmp/data/part3/Mask/No oil/00126_segmentation.tif
+clean_00127,clean,/tmp/data/part3/Images/No oil/00127.tif,/tmp/data/part3/Mask/No oil/00127_segmentation.tif
+clean_00128,clean,/tmp/data/part3/Images/No oil/00128.tif,/tmp/data/part3/Mask/No oil/00128_segmentation.tif
+clean_00129,clean,/tmp/data/part3/Images/No oil/00129.tif,/tmp/data/part3/Mask/No oil/00129_segmentation.tif
+clean_00130,clean,/tmp/data/part3/Images/No oil/00130.tif,/tmp/data/part3/Mask/No oil/00130_segmentation.tif
+clean_00131,clean,/tmp/data/part3/Images/No oil/00131.tif,/tmp/data/part3/Mask/No oil/00131_segmentation.tif
+clean_00132,clean,/tmp/data/part3/Images/No oil/00132.tif,/tmp/data/part3/Mask/No oil/00132_segmentation.tif
+clean_00133,clean,/tmp/data/part3/Images/No oil/00133.tif,/tmp/data/part3/Mask/No oil/00133_segmentation.tif
+clean_00134,clean,/tmp/data/part3/Images/No oil/00134.tif,/tmp/data/part3/Mask/No oil/00134_segmentation.tif
+clean_00135,clean,/tmp/data/part3/Images/No oil/00135.tif,/tmp/data/part3/Mask/No oil/00135_segmentation.tif
+clean_00136,clean,/tmp/data/part3/Images/No oil/00136.tif,/tmp/data/part3/Mask/No oil/00136_segmentation.tif
+clean_00137,clean,/tmp/data/part3/Images/No oil/00137.tif,/tmp/data/part3/Mask/No oil/00137_segmentation.tif
+clean_00138,clean,/tmp/data/part3/Images/No oil/00138.tif,/tmp/data/part3/Mask/No oil/00138_segmentation.tif
+clean_00139,clean,/tmp/data/part3/Images/No oil/00139.tif,/tmp/data/part3/Mask/No oil/00139_segmentation.tif
+clean_00140,clean,/tmp/data/part3/Images/No oil/00140.tif,/tmp/data/part3/Mask/No oil/00140_segmentation.tif
+clean_00141,clean,/tmp/data/part3/Images/No oil/00141.tif,/tmp/data/part3/Mask/No oil/00141_segmentation.tif
+clean_00142,clean,/tmp/data/part3/Images/No oil/00142.tif,/tmp/data/part3/Mask/No oil/00142_segmentation.tif
+clean_00143,clean,/tmp/data/part3/Images/No oil/00143.tif,/tmp/data/part3/Mask/No oil/00143_segmentation.tif
+clean_00144,clean,/tmp/data/part3/Images/No oil/00144.tif,/tmp/data/part3/Mask/No oil/00144_segmentation.tif
+clean_00145,clean,/tmp/data/part3/Images/No oil/00145.tif,/tmp/data/part3/Mask/No oil/00145_segmentation.tif
+clean_00146,clean,/tmp/data/part3/Images/No oil/00146.tif,/tmp/data/part3/Mask/No oil/00146_segmentation.tif
+clean_00147,clean,/tmp/data/part3/Images/No oil/00147.tif,/tmp/data/part3/Mask/No oil/00147_segmentation.tif
+clean_00148,clean,/tmp/data/part3/Images/No oil/00148.tif,/tmp/data/part3/Mask/No oil/00148_segmentation.tif
+clean_00149,clean,/tmp/data/part3/Images/No oil/00149.tif,/tmp/data/part3/Mask/No oil/00149_segmentation.tif
+oil_00000,oil,/tmp/data/part3/Images/Oil/00000.tif,/tmp/data/part3/Mask/Oil/00000_segmentation.tif
+oil_00001,oil,/tmp/data/part3/Images/Oil/00001.tif,/tmp/data/part3/Mask/Oil/00001_segmentation.tif
+oil_00002,oil,/tmp/data/part3/Images/Oil/00002.tif,/tmp/data/part3/Mask/Oil/00002_segmentation.tif
+oil_00003,oil,/tmp/data/part3/Images/Oil/00003.tif,/tmp/data/part3/Mask/Oil/00003_segmentation.tif
+oil_00004,oil,/tmp/data/part3/Images/Oil/00004.tif,/tmp/data/part3/Mask/Oil/00004_segmentation.tif
+oil_00005,oil,/tmp/data/part3/Images/Oil/00005.tif,/tmp/data/part3/Mask/Oil/00005_segmentation.tif
+oil_00006,oil,/tmp/data/part3/Images/Oil/00006.tif,/tmp/data/part3/Mask/Oil/00006_segmentation.tif
+oil_00007,oil,/tmp/data/part3/Images/Oil/00007.tif,/tmp/data/part3/Mask/Oil/00007_segmentation.tif
+oil_00008,oil,/tmp/data/part3/Images/Oil/00008.tif,/tmp/data/part3/Mask/Oil/00008_segmentation.tif
+oil_00009,oil,/tmp/data/part3/Images/Oil/00009.tif,/tmp/data/part3/Mask/Oil/00009_segmentation.tif
+oil_00010,oil,/tmp/data/part3/Images/Oil/00010.tif,/tmp/data/part3/Mask/Oil/00010_segmentation.tif
+oil_00011,oil,/tmp/data/part3/Images/Oil/00011.tif,/tmp/data/part3/Mask/Oil/00011_segmentation.tif
+oil_00012,oil,/tmp/data/part3/Images/Oil/00012.tif,/tmp/data/part3/Mask/Oil/00012_segmentation.tif
+oil_00013,oil,/tmp/data/part3/Images/Oil/00013.tif,/tmp/data/part3/Mask/Oil/00013_segmentation.tif
+oil_00014,oil,/tmp/data/part3/Images/Oil/00014.tif,/tmp/data/part3/Mask/Oil/00014_segmentation.tif
+oil_00015,oil,/tmp/data/part3/Images/Oil/00015.tif,/tmp/data/part3/Mask/Oil/00015_segmentation.tif
+oil_00016,oil,/tmp/data/part3/Images/Oil/00016.tif,/tmp/data/part3/Mask/Oil/00016_segmentation.tif
+oil_00017,oil,/tmp/data/part3/Images/Oil/00017.tif,/tmp/data/part3/Mask/Oil/00017_segmentation.tif
+oil_00018,oil,/tmp/data/part3/Images/Oil/00018.tif,/tmp/data/part3/Mask/Oil/00018_segmentation.tif
+oil_00019,oil,/tmp/data/part3/Images/Oil/00019.tif,/tmp/data/part3/Mask/Oil/00019_segmentation.tif
+oil_00020,oil,/tmp/data/part3/Images/Oil/00020.tif,/tmp/data/part3/Mask/Oil/00020_segmentation.tif
+oil_00021,oil,/tmp/data/part3/Images/Oil/00021.tif,/tmp/data/part3/Mask/Oil/00021_segmentation.tif
+oil_00022,oil,/tmp/data/part3/Images/Oil/00022.tif,/tmp/data/part3/Mask/Oil/00022_segmentation.tif
+oil_00023,oil,/tmp/data/part3/Images/Oil/00023.tif,/tmp/data/part3/Mask/Oil/00023_segmentation.tif
+oil_00024,oil,/tmp/data/part3/Images/Oil/00024.tif,/tmp/data/part3/Mask/Oil/00024_segmentation.tif
+oil_00025,oil,/tmp/data/part3/Images/Oil/00025.tif,/tmp/data/part3/Mask/Oil/00025_segmentation.tif
+oil_00026,oil,/tmp/data/part3/Images/Oil/00026.tif,/tmp/data/part3/Mask/Oil/00026_segmentation.tif
+oil_00027,oil,/tmp/data/part3/Images/Oil/00027.tif,/tmp/data/part3/Mask/Oil/00027_segmentation.tif
+oil_00028,oil,/tmp/data/part3/Images/Oil/00028.tif,/tmp/data/part3/Mask/Oil/00028_segmentation.tif
+oil_00029,oil,/tmp/data/part3/Images/Oil/00029.tif,/tmp/data/part3/Mask/Oil/00029_segmentation.tif
+oil_00030,oil,/tmp/data/part3/Images/Oil/00030.tif,/tmp/data/part3/Mask/Oil/00030_segmentation.tif
+oil_00031,oil,/tmp/data/part3/Images/Oil/00031.tif,/tmp/data/part3/Mask/Oil/00031_segmentation.tif
+oil_00032,oil,/tmp/data/part3/Images/Oil/00032.tif,/tmp/data/part3/Mask/Oil/00032_segmentation.tif
+oil_00033,oil,/tmp/data/part3/Images/Oil/00033.tif,/tmp/data/part3/Mask/Oil/00033_segmentation.tif
+oil_00034,oil,/tmp/data/part3/Images/Oil/00034.tif,/tmp/data/part3/Mask/Oil/00034_segmentation.tif
+oil_00035,oil,/tmp/data/part3/Images/Oil/00035.tif,/tmp/data/part3/Mask/Oil/00035_segmentation.tif
+oil_00036,oil,/tmp/data/part3/Images/Oil/00036.tif,/tmp/data/part3/Mask/Oil/00036_segmentation.tif
+oil_00037,oil,/tmp/data/part3/Images/Oil/00037.tif,/tmp/data/part3/Mask/Oil/00037_segmentation.tif
+oil_00038,oil,/tmp/data/part3/Images/Oil/00038.tif,/tmp/data/part3/Mask/Oil/00038_segmentation.tif
+oil_00039,oil,/tmp/data/part3/Images/Oil/00039.tif,/tmp/data/part3/Mask/Oil/00039_segmentation.tif
+oil_00040,oil,/tmp/data/part3/Images/Oil/00040.tif,/tmp/data/part3/Mask/Oil/00040_segmentation.tif
+oil_00041,oil,/tmp/data/part3/Images/Oil/00041.tif,/tmp/data/part3/Mask/Oil/00041_segmentation.tif
+oil_00042,oil,/tmp/data/part3/Images/Oil/00042.tif,/tmp/data/part3/Mask/Oil/00042_segmentation.tif
+oil_00043,oil,/tmp/data/part3/Images/Oil/00043.tif,/tmp/data/part3/Mask/Oil/00043_segmentation.tif
+oil_00044,oil,/tmp/data/part3/Images/Oil/00044.tif,/tmp/data/part3/Mask/Oil/00044_segmentation.tif
+oil_00045,oil,/tmp/data/part3/Images/Oil/00045.tif,/tmp/data/part3/Mask/Oil/00045_segmentation.tif
+oil_00046,oil,/tmp/data/part3/Images/Oil/00046.tif,/tmp/data/part3/Mask/Oil/00046_segmentation.tif
+oil_00047,oil,/tmp/data/part3/Images/Oil/00047.tif,/tmp/data/part3/Mask/Oil/00047_segmentation.tif
+oil_00048,oil,/tmp/data/part3/Images/Oil/00048.tif,/tmp/data/part3/Mask/Oil/00048_segmentation.tif
+oil_00049,oil,/tmp/data/part3/Images/Oil/00049.tif,/tmp/data/part3/Mask/Oil/00049_segmentation.tif
+oil_00050,oil,/tmp/data/part3/Images/Oil/00050.tif,/tmp/data/part3/Mask/Oil/00050_segmentation.tif
+oil_00051,oil,/tmp/data/part3/Images/Oil/00051.tif,/tmp/data/part3/Mask/Oil/00051_segmentation.tif
+oil_00052,oil,/tmp/data/part3/Images/Oil/00052.tif,/tmp/data/part3/Mask/Oil/00052_segmentation.tif
+oil_00053,oil,/tmp/data/part3/Images/Oil/00053.tif,/tmp/data/part3/Mask/Oil/00053_segmentation.tif
+oil_00054,oil,/tmp/data/part3/Images/Oil/00054.tif,/tmp/data/part3/Mask/Oil/00054_segmentation.tif
+oil_00055,oil,/tmp/data/part3/Images/Oil/00055.tif,/tmp/data/part3/Mask/Oil/00055_segmentation.tif
+oil_00056,oil,/tmp/data/part3/Images/Oil/00056.tif,/tmp/data/part3/Mask/Oil/00056_segmentation.tif
+oil_00057,oil,/tmp/data/part3/Images/Oil/00057.tif,/tmp/data/part3/Mask/Oil/00057_segmentation.tif
+oil_00058,oil,/tmp/data/part3/Images/Oil/00058.tif,/tmp/data/part3/Mask/Oil/00058_segmentation.tif
+oil_00059,oil,/tmp/data/part3/Images/Oil/00059.tif,/tmp/data/part3/Mask/Oil/00059_segmentation.tif
+oil_00060,oil,/tmp/data/part3/Images/Oil/00060.tif,/tmp/data/part3/Mask/Oil/00060_segmentation.tif
+oil_00061,oil,/tmp/data/part3/Images/Oil/00061.tif,/tmp/data/part3/Mask/Oil/00061_segmentation.tif
+oil_00062,oil,/tmp/data/part3/Images/Oil/00062.tif,/tmp/data/part3/Mask/Oil/00062_segmentation.tif
+oil_00063,oil,/tmp/data/part3/Images/Oil/00063.tif,/tmp/data/part3/Mask/Oil/00063_segmentation.tif
+oil_00064,oil,/tmp/data/part3/Images/Oil/00064.tif,/tmp/data/part3/Mask/Oil/00064_segmentation.tif
+oil_00065,oil,/tmp/data/part3/Images/Oil/00065.tif,/tmp/data/part3/Mask/Oil/00065_segmentation.tif
+oil_00066,oil,/tmp/data/part3/Images/Oil/00066.tif,/tmp/data/part3/Mask/Oil/00066_segmentation.tif
+oil_00067,oil,/tmp/data/part3/Images/Oil/00067.tif,/tmp/data/part3/Mask/Oil/00067_segmentation.tif
+oil_00068,oil,/tmp/data/part3/Images/Oil/00068.tif,/tmp/data/part3/Mask/Oil/00068_segmentation.tif
+oil_00069,oil,/tmp/data/part3/Images/Oil/00069.tif,/tmp/data/part3/Mask/Oil/00069_segmentation.tif
+oil_00070,oil,/tmp/data/part3/Images/Oil/00070.tif,/tmp/data/part3/Mask/Oil/00070_segmentation.tif
+oil_00071,oil,/tmp/data/part3/Images/Oil/00071.tif,/tmp/data/part3/Mask/Oil/00071_segmentation.tif
+oil_00072,oil,/tmp/data/part3/Images/Oil/00072.tif,/tmp/data/part3/Mask/Oil/00072_segmentation.tif
+oil_00073,oil,/tmp/data/part3/Images/Oil/00073.tif,/tmp/data/part3/Mask/Oil/00073_segmentation.tif
+oil_00074,oil,/tmp/data/part3/Images/Oil/00074.tif,/tmp/data/part3/Mask/Oil/00074_segmentation.tif
+oil_00075,oil,/tmp/data/part3/Images/Oil/00075.tif,/tmp/data/part3/Mask/Oil/00075_segmentation.tif
+oil_00076,oil,/tmp/data/part3/Images/Oil/00076.tif,/tmp/data/part3/Mask/Oil/00076_segmentation.tif
+oil_00077,oil,/tmp/data/part3/Images/Oil/00077.tif,/tmp/data/part3/Mask/Oil/00077_segmentation.tif
+oil_00078,oil,/tmp/data/part3/Images/Oil/00078.tif,/tmp/data/part3/Mask/Oil/00078_segmentation.tif
+oil_00079,oil,/tmp/data/part3/Images/Oil/00079.tif,/tmp/data/part3/Mask/Oil/00079_segmentation.tif
+oil_00080,oil,/tmp/data/part3/Images/Oil/00080.tif,/tmp/data/part3/Mask/Oil/00080_segmentation.tif
+oil_00081,oil,/tmp/data/part3/Images/Oil/00081.tif,/tmp/data/part3/Mask/Oil/00081_segmentation.tif
+oil_00082,oil,/tmp/data/part3/Images/Oil/00082.tif,/tmp/data/part3/Mask/Oil/00082_segmentation.tif
+oil_00083,oil,/tmp/data/part3/Images/Oil/00083.tif,/tmp/data/part3/Mask/Oil/00083_segmentation.tif
+oil_00084,oil,/tmp/data/part3/Images/Oil/00084.tif,/tmp/data/part3/Mask/Oil/00084_segmentation.tif
+oil_00085,oil,/tmp/data/part3/Images/Oil/00085.tif,/tmp/data/part3/Mask/Oil/00085_segmentation.tif
+oil_00086,oil,/tmp/data/part3/Images/Oil/00086.tif,/tmp/data/part3/Mask/Oil/00086_segmentation.tif
+oil_00087,oil,/tmp/data/part3/Images/Oil/00087.tif,/tmp/data/part3/Mask/Oil/00087_segmentation.tif
+oil_00088,oil,/tmp/data/part3/Images/Oil/00088.tif,/tmp/data/part3/Mask/Oil/00088_segmentation.tif
+oil_00089,oil,/tmp/data/part3/Images/Oil/00089.tif,/tmp/data/part3/Mask/Oil/00089_segmentation.tif
+oil_00090,oil,/tmp/data/part3/Images/Oil/00090.tif,/tmp/data/part3/Mask/Oil/00090_segmentation.tif
+oil_00091,oil,/tmp/data/part3/Images/Oil/00091.tif,/tmp/data/part3/Mask/Oil/00091_segmentation.tif
+oil_00092,oil,/tmp/data/part3/Images/Oil/00092.tif,/tmp/data/part3/Mask/Oil/00092_segmentation.tif
+oil_00093,oil,/tmp/data/part3/Images/Oil/00093.tif,/tmp/data/part3/Mask/Oil/00093_segmentation.tif
+oil_00094,oil,/tmp/data/part3/Images/Oil/00094.tif,/tmp/data/part3/Mask/Oil/00094_segmentation.tif
+oil_00095,oil,/tmp/data/part3/Images/Oil/00095.tif,/tmp/data/part3/Mask/Oil/00095_segmentation.tif
+oil_00096,oil,/tmp/data/part3/Images/Oil/00096.tif,/tmp/data/part3/Mask/Oil/00096_segmentation.tif
+oil_00097,oil,/tmp/data/part3/Images/Oil/00097.tif,/tmp/data/part3/Mask/Oil/00097_segmentation.tif
+oil_00098,oil,/tmp/data/part3/Images/Oil/00098.tif,/tmp/data/part3/Mask/Oil/00098_segmentation.tif
+oil_00099,oil,/tmp/data/part3/Images/Oil/00099.tif,/tmp/data/part3/Mask/Oil/00099_segmentation.tif
+oil_00100,oil,/tmp/data/part3/Images/Oil/00100.tif,/tmp/data/part3/Mask/Oil/00100_segmentation.tif
+oil_00101,oil,/tmp/data/part3/Images/Oil/00101.tif,/tmp/data/part3/Mask/Oil/00101_segmentation.tif
+oil_00102,oil,/tmp/data/part3/Images/Oil/00102.tif,/tmp/data/part3/Mask/Oil/00102_segmentation.tif
+oil_00103,oil,/tmp/data/part3/Images/Oil/00103.tif,/tmp/data/part3/Mask/Oil/00103_segmentation.tif
+oil_00104,oil,/tmp/data/part3/Images/Oil/00104.tif,/tmp/data/part3/Mask/Oil/00104_segmentation.tif
+oil_00105,oil,/tmp/data/part3/Images/Oil/00105.tif,/tmp/data/part3/Mask/Oil/00105_segmentation.tif
+oil_00106,oil,/tmp/data/part3/Images/Oil/00106.tif,/tmp/data/part3/Mask/Oil/00106_segmentation.tif
+oil_00107,oil,/tmp/data/part3/Images/Oil/00107.tif,/tmp/data/part3/Mask/Oil/00107_segmentation.tif
+oil_00108,oil,/tmp/data/part3/Images/Oil/00108.tif,/tmp/data/part3/Mask/Oil/00108_segmentation.tif
+oil_00109,oil,/tmp/data/part3/Images/Oil/00109.tif,/tmp/data/part3/Mask/Oil/00109_segmentation.tif
+oil_00110,oil,/tmp/data/part3/Images/Oil/00110.tif,/tmp/data/part3/Mask/Oil/00110_segmentation.tif
+oil_00111,oil,/tmp/data/part3/Images/Oil/00111.tif,/tmp/data/part3/Mask/Oil/00111_segmentation.tif
+oil_00112,oil,/tmp/data/part3/Images/Oil/00112.tif,/tmp/data/part3/Mask/Oil/00112_segmentation.tif
+oil_00113,oil,/tmp/data/part3/Images/Oil/00113.tif,/tmp/data/part3/Mask/Oil/00113_segmentation.tif
+oil_00114,oil,/tmp/data/part3/Images/Oil/00114.tif,/tmp/data/part3/Mask/Oil/00114_segmentation.tif
+oil_00115,oil,/tmp/data/part3/Images/Oil/00115.tif,/tmp/data/part3/Mask/Oil/00115_segmentation.tif
+oil_00116,oil,/tmp/data/part3/Images/Oil/00116.tif,/tmp/data/part3/Mask/Oil/00116_segmentation.tif
+oil_00117,oil,/tmp/data/part3/Images/Oil/00117.tif,/tmp/data/part3/Mask/Oil/00117_segmentation.tif
+oil_00118,oil,/tmp/data/part3/Images/Oil/00118.tif,/tmp/data/part3/Mask/Oil/00118_segmentation.tif
+oil_00119,oil,/tmp/data/part3/Images/Oil/00119.tif,/tmp/data/part3/Mask/Oil/00119_segmentation.tif
+oil_00120,oil,/tmp/data/part3/Images/Oil/00120.tif,/tmp/data/part3/Mask/Oil/00120_segmentation.tif
+oil_00121,oil,/tmp/data/part3/Images/Oil/00121.tif,/tmp/data/part3/Mask/Oil/00121_segmentation.tif
+oil_00122,oil,/tmp/data/part3/Images/Oil/00122.tif,/tmp/data/part3/Mask/Oil/00122_segmentation.tif
+oil_00123,oil,/tmp/data/part3/Images/Oil/00123.tif,/tmp/data/part3/Mask/Oil/00123_segmentation.tif
+oil_00124,oil,/tmp/data/part3/Images/Oil/00124.tif,/tmp/data/part3/Mask/Oil/00124_segmentation.tif
+oil_00125,oil,/tmp/data/part3/Images/Oil/00125.tif,/tmp/data/part3/Mask/Oil/00125_segmentation.tif
+oil_00126,oil,/tmp/data/part3/Images/Oil/00126.tif,/tmp/data/part3/Mask/Oil/00126_segmentation.tif
+oil_00127,oil,/tmp/data/part3/Images/Oil/00127.tif,/tmp/data/part3/Mask/Oil/00127_segmentation.tif
+oil_00128,oil,/tmp/data/part3/Images/Oil/00128.tif,/tmp/data/part3/Mask/Oil/00128_segmentation.tif
+oil_00129,oil,/tmp/data/part3/Images/Oil/00129.tif,/tmp/data/part3/Mask/Oil/00129_segmentation.tif
+oil_00130,oil,/tmp/data/part3/Images/Oil/00130.tif,/tmp/data/part3/Mask/Oil/00130_segmentation.tif
+oil_00131,oil,/tmp/data/part3/Images/Oil/00131.tif,/tmp/data/part3/Mask/Oil/00131_segmentation.tif
+oil_00132,oil,/tmp/data/part3/Images/Oil/00132.tif,/tmp/data/part3/Mask/Oil/00132_segmentation.tif
+oil_00133,oil,/tmp/data/part3/Images/Oil/00133.tif,/tmp/data/part3/Mask/Oil/00133_segmentation.tif
+oil_00134,oil,/tmp/data/part3/Images/Oil/00134.tif,/tmp/data/part3/Mask/Oil/00134_segmentation.tif
+oil_00135,oil,/tmp/data/part3/Images/Oil/00135.tif,/tmp/data/part3/Mask/Oil/00135_segmentation.tif
+oil_00136,oil,/tmp/data/part3/Images/Oil/00136.tif,/tmp/data/part3/Mask/Oil/00136_segmentation.tif
+oil_00137,oil,/tmp/data/part3/Images/Oil/00137.tif,/tmp/data/part3/Mask/Oil/00137_segmentation.tif
+oil_00138,oil,/tmp/data/part3/Images/Oil/00138.tif,/tmp/data/part3/Mask/Oil/00138_segmentation.tif
+oil_00139,oil,/tmp/data/part3/Images/Oil/00139.tif,/tmp/data/part3/Mask/Oil/00139_segmentation.tif
+oil_00140,oil,/tmp/data/part3/Images/Oil/00140.tif,/tmp/data/part3/Mask/Oil/00140_segmentation.tif
+oil_00141,oil,/tmp/data/part3/Images/Oil/00141.tif,/tmp/data/part3/Mask/Oil/00141_segmentation.tif
+oil_00142,oil,/tmp/data/part3/Images/Oil/00142.tif,/tmp/data/part3/Mask/Oil/00142_segmentation.tif
+oil_00143,oil,/tmp/data/part3/Images/Oil/00143.tif,/tmp/data/part3/Mask/Oil/00143_segmentation.tif
+oil_00144,oil,/tmp/data/part3/Images/Oil/00144.tif,/tmp/data/part3/Mask/Oil/00144_segmentation.tif
+oil_00145,oil,/tmp/data/part3/Images/Oil/00145.tif,/tmp/data/part3/Mask/Oil/00145_segmentation.tif
+oil_00146,oil,/tmp/data/part3/Images/Oil/00146.tif,/tmp/data/part3/Mask/Oil/00146_segmentation.tif
+oil_00147,oil,/tmp/data/part3/Images/Oil/00147.tif,/tmp/data/part3/Mask/Oil/00147_segmentation.tif
+oil_00148,oil,/tmp/data/part3/Images/Oil/00148.tif,/tmp/data/part3/Mask/Oil/00148_segmentation.tif
+oil_00149,oil,/tmp/data/part3/Images/Oil/00149.tif,/tmp/data/part3/Mask/Oil/00149_segmentation.tif

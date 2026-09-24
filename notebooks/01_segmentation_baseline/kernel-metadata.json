@@ -1,0 +1,21 @@
+{
+  "id": "rushangsavaliya/oiled-01-segmentation-baseline-unet-cnn-triage",
+  "title": "Oiled 01 Segmentation Baseline UNet CNN Triage",
+  "code_file": "oiled-01-segmentation-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": ["SAR", "oil-spill", "segmentation", "u-net", "sentinel-1"],
+  "dataset_sources": [
+    "rohithsheregar/sentinel1-sar-oil-spill-train",
+    "shuddhabrotabanerjee/oil-spill-dartis-part1",
+    "rohithsheregar/sentinel1-sar-lookalike-train",
+    "rohithsheregar/sentinel1-sar-no-oil-train"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
