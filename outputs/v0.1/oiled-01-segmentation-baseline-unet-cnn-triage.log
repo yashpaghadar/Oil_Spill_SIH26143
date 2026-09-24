@@ -1,0 +1,69 @@
+[{"stream_name":"stderr","time":8.235349516,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.235394016,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.2353986,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.235401224,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.890390675,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.890429422,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.89043598,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.89044126,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":15.478026473,"data":"=== Oiled — Stage 2: SAR Model Training ===\n"}
+,{"stream_name":"stdout","time":15.478082706,"data":"Python:  3.12.13\n"}
+,{"stream_name":"stdout","time":15.478090916,"data":"PyTorch: 2.10.0+cu128\n"}
+,{"stream_name":"stdout","time":15.478097844,"data":"CUDA:    12.8\n"}
+,{"stream_name":"stdout","time":15.478104937,"data":"GPUs:    2\n"}
+,{"stream_name":"stdout","time":15.486978579,"data":"  GPU 0: Tesla T4  VRAM=14911 MiB\n"}
+,{"stream_name":"stdout","time":15.487001927,"data":"  GPU 1: Tesla T4  VRAM=14911 MiB\n"}
+,{"stream_name":"stdout","time":15.487007742,"data":"\n"}
+,{"stream_name":"stdout","time":15.48701237,"data":"Environment check passed.\n"}
+,{"stream_name":"stdout","time":17.943507365,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.8/58.8 kB 1.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.145618415,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.8/58.8 kB 1.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.261168935,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 22.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.463308892,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 22.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.665436073,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.8/58.8 kB 2.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.867541016,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.8/58.8 kB 2.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":24.634002469,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 109.5/109.5 kB 4.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":24.83590226,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 109.5/109.5 kB 4.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.053734175,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 22.3/22.3 MB 74.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.255650977,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 22.3/22.3 MB 74.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":36.179265828,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 269.9/269.9 kB 5.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":36.38112413,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 269.9/269.9 kB 5.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":42.253310749,"data":"All dependencies installed.\n"}
+,{"stream_name":"stdout","time":42.45360166,"data":"=== /kaggle/input directory structure ===\n"}
+,{"stream_name":"stdout","time":74.17184635,"data":"  datasets  (7540 .tif files)  subdirs: [PosixPath('datasets/rohithsheregar'), PosixPath('datasets/rohithsheregar/sentinel1-sar-lookalike-train'), PosixPath('datasets/rohithsheregar/sentinel1-sar-lookalike-train/images'), PosixPath('datasets/rohithsheregar/sentinel1-sar-lookalike-train/images/Lookalike')]\n"}
+,{"stream_name":"stdout","time":74.171885285,"data":"\n"}
+,{"stream_name":"stdout","time":74.171891995,"data":"=== Resolved dataset paths ===\n"}
+,{"stream_name":"stdout","time":74.171897475,"data":"  Oil images    : None  (0 files)\n"}
+,{"stream_name":"stdout","time":74.171901786,"data":"  Oil masks     : None  (0 files)\n"}
+,{"stream_name":"stdout","time":74.171906063,"data":"  Lookalike     : None  (0 files)\n"}
+,{"stream_name":"stdout","time":74.171910227,"data":"  No-oil        : None  (0 files)\n"}
+,{"stream_name":"stderr","time":77.475250712,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":77.475289995,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":77.475299544,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":77.475398398,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":77.475442167,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":77.475632926,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":77.475723468,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":77.475753722,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":77.475759595,"data":"Exception encountered at \"In [3]\":\n"}
+,{"stream_name":"stderr","time":77.475764324,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":77.47576857,"data":"RuntimeError                              Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":77.47577325500001,"data":"/tmp/ipykernel_24/1937099040.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":77.475777938,"data":"     50 \n"}
+,{"stream_name":"stderr","time":77.475782577,"data":"     51 if OIL_IMG_DIR is None or OIL_MASK_DIR is None:\n"}
+,{"stream_name":"stderr","time":77.475787392,"data":"---\u003e 52     raise RuntimeError(\n"}
+,{"stream_name":"stderr","time":77.475792133,"data":"     53         'Could not find oil images or masks.\\n'\n"}
+,{"stream_name":"stderr","time":77.475797125,"data":"     54         'Check that all four datasets are attached in kernel-metadata.json.\\n'\n"}
+,{"stream_name":"stderr","time":77.475801583,"data":"\n"}
+,{"stream_name":"stderr","time":77.47580552,"data":"RuntimeError: Could not find oil images or masks.\n"}
+,{"stream_name":"stderr","time":77.475820192,"data":"Check that all four datasets are attached in kernel-metadata.json.\n"}
+,{"stream_name":"stderr","time":77.475823749,"data":"Attached datasets: ['datasets']\n"}
+,{"stream_name":"stderr","time":77.475827235,"data":"\n"}
+,{"stream_name":"stderr","time":79.588103819,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":79.588167293,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":79.743753109,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":79.743786789,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":80.347792391,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":80.64514117,"data":"[NbConvertApp] Writing 40662 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":82.972213288,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":83.857427976,"data":"[NbConvertApp] Writing 418533 bytes to __results__.html\n"}
+]

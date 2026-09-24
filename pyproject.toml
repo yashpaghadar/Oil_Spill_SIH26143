@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oiled"
+version = "0.1.0"
+description = "Oil spill detection, drift backtracking, and AIS vessel evidence ranking system"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0.0",
+    "numpy>=1.24.0",
+    "pydantic>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "kaggle>=2.2.4",
+    "kagglehub>=1.0.2",
+]
+geo = [
+    "rasterio>=1.3.0",
+    "geopandas>=0.13.0",
+    "shapely>=2.0.0",
+    "pyproj>=3.5.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
