@@ -1,0 +1,37 @@
+{
+  "completed_utc": "2026-09-25T16:28:36.937452+00:00",
+  "n_scenes": 450,
+  "operating_threshold": 0.9452,
+  "pixel_metrics": {
+    "average_precision": 0.2617,
+    "f1_dice": 0.3783,
+    "precision": 0.2526,
+    "recall": 0.7532
+  },
+  "calibration": {
+    "expected_calibration_error": 0.11009,
+    "brier_score": 0.09895
+  },
+  "scene_breakdown": {
+    "oil": {
+      "flagged": 150,
+      "total": 150,
+      "rate": 100.0
+    },
+    "lookalike": {
+      "flagged": 143,
+      "total": 150,
+      "rate": 95.33
+    },
+    "clean": {
+      "flagged": 21,
+      "total": 150,
+      "rate": 14.0
+    }
+  },
+  "operational_metrics": {
+    "oil_spill_detection_recall": 100.0,
+    "lookalike_false_alert_rate": 95.33,
+    "clean_sea_false_alert_rate": 14.0
+  }
+}
