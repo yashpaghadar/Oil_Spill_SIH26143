@@ -1,0 +1,42 @@
+[
+  {
+    "vessel_id": "419000101",
+    "rank": 1,
+    "total_score": 0.8152,
+    "evidence_components": {
+      "proximity": 0.873,
+      "timing": 0.6065,
+      "route_fit": 0.8937,
+      "speed_behavior": 1.0,
+      "data_quality": 1.0,
+      "cpa_distance_km": 1.36,
+      "cpa_time_diff_hours": 1.5
+    },
+    "exclusions": [],
+    "disclaimer": "Candidate vessel assessment based on spatio-temporal correlation. Does not constitute confirmation of causation or legal liability."
+  },
+  {
+    "vessel_id": "419000202",
+    "rank": -1,
+    "total_score": 0.0,
+    "evidence_components": {
+      "cpa_distance_km": 48.67
+    },
+    "exclusions": [
+      "spatial_mismatch_cpa_48.7km"
+    ],
+    "disclaimer": "Candidate vessel assessment based on spatio-temporal correlation. Does not constitute confirmation of causation or legal liability."
+  },
+  {
+    "vessel_id": "419000303",
+    "rank": -1,
+    "total_score": 0.0,
+    "evidence_components": {
+      "cpa_distance_km": 1.36
+    },
+    "exclusions": [
+      "temporal_mismatch"
+    ],
+    "disclaimer": "Candidate vessel assessment based on spatio-temporal correlation. Does not constitute confirmation of causation or legal liability."
+  }
+]
