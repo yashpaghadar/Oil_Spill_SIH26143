@@ -2,7 +2,10 @@
 
 import torch
 import torch.nn as nn
-import segmentation_models_pytorch as smp
+try:
+    import segmentation_models_pytorch as smp
+except ImportError:
+    smp = None
 
 
 def build_unet_segmentation_model(
@@ -19,6 +22,11 @@ def build_unet_segmentation_model(
         encoder_weights: Pretrained weights (e.g. None or 'imagenet').
         activation: Output activation ('sigmoid' or None for raw logits).
     """
+    if smp is None:
+        raise ImportError(
+            "segmentation_models_pytorch is required for build_unet_segmentation_model. "
+            "Install it via: pip install segmentation-models-pytorch"
+        )
     return smp.Unet(
         encoder_name=encoder_name,
         encoder_weights=encoder_weights,
