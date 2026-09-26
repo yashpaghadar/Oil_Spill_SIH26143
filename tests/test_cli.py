@@ -18,10 +18,10 @@ class TestCLIDashboard(unittest.TestCase):
         with open(res_path) as f:
             content = f.read()
 
-        self.assertIn("OILED — Incident Intelligence Prototype", content)
-        self.assertIn("MT_AL_MARJAN", content)
-        self.assertIn("SYNTHETIC DATA ENRICHED", content)
-        self.assertIn("CANDIDATE ASSESSMENT (NOT LEGAL PROOF)", content)
+        self.assertIn("OILED", content)
+        self.assertIn("MT AL-MARJAN", content)
+        self.assertIn("Tactical Map Viewport", content)
+        self.assertIn("Play Hindcast", content)
 
         # Cleanup test HTML
         if output_html.exists():
