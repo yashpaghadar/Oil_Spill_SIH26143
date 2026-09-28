@@ -4,54 +4,47 @@
     "label": "MT AL-MARJAN",
     "vessel_type": "Crude Oil Tanker",
     "rank": 1,
-    "total_score": 0.8222,
-    "total_without_drift": 0.8565,
+    "total_score": 0.88,
     "evidence_components": {
-      "drift": 0.7422,
-      "proximity": 0.873,
-      "temporality": 0.6065,
-      "parity": 0.8933,
-      "behaviour": 1.0,
-      "prior": 1.0,
-      "cpa_distance_km": 1.36,
-      "cpa_time_diff_hours": 1.5,
-      "inside_origin_envelope": true,
-      "weights_version": "w1-handset"
+      "drift": 0.92,
+      "proximity": 0.95,
+      "parity": 0.88,
+      "prior": 0.9,
+      "cpa_distance_km": 1.36
     },
     "exclusions": [],
-    "verdict": "ranked",
-    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+    "verdict": "ranked"
   },
   {
     "vessel_id": "419000202",
     "label": "MV PACIFIC VOYAGER",
-    "vessel_type": "Container Ship",
-    "rank": -1,
-    "total_score": 0.0,
-    "total_without_drift": 0.0,
+    "vessel_type": "Container Carrier",
+    "rank": 2,
+    "total_score": 0.18,
     "evidence_components": {
+      "drift": 0.12,
+      "proximity": 0.08,
+      "parity": 0.25,
+      "prior": 0.4,
       "cpa_distance_km": 48.67
     },
     "exclusions": [
       "spatial_mismatch_cpa_48.7km"
     ],
-    "verdict": "excluded",
-    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+    "verdict": "excluded"
   },
   {
     "vessel_id": "419000303",
     "label": "MV OCEAN PRIDE",
     "vessel_type": "Bulk Carrier",
     "rank": -1,
-    "total_score": 0.0,
-    "total_without_drift": 0.0,
+    "total_score": 0.05,
     "evidence_components": {
-      "cpa_distance_km": 1.36
+      "cpa_distance_km": 82.4
     },
     "exclusions": [
-      "temporal_mismatch"
+      "spatial_boundary_exceeded"
     ],
-    "verdict": "excluded",
-    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+    "verdict": "excluded"
   }
 ]
