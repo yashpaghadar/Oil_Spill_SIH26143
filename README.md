@@ -4,13 +4,13 @@
 [![Problem Statement](https://img.shields.io/badge/Problem%20Statement-SIH26143-blue.svg)](https://sih.gov.in/)
 [![Nodal Agency](https://img.shields.io/badge/Nodal%20Agency-NTRO-red.svg)](https://ntro.gov.in/)
 [![Tests Passing](https://img.shields.io/badge/Unit%20Tests-23%2F23%20Passed-brightgreen.svg)](tests/)
-[![Live App - Vercel](https://img.shields.io/badge/Live%20Console-Vercel%20App-black.svg?logo=vercel)](https://oiled-sih26143.vercel.app/)
+[![Live App - Vercel](https://img.shields.io/badge/Live%20Console-Vercel%20App-black.svg?logo=vercel)](https://oil-spill-detection-by-hexacrew.vercel.app/)
 [![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-informational.svg?logo=github)](https://yashpaghadar.github.io/Oil_Spill_SIH26143/)
 
 > **Smart India Hackathon 2026** · Problem Statement **SIH26143**  
 > **Nodal Organisation:** National Technical Research Organisation (NTRO)  
 > **Theme:** Disaster Management | **Category:** Software  
-> 🌐 **Live Web Console (Vercel):** [https://oiled-sih26143.vercel.app/](https://oiled-sih26143.vercel.app/)  
+> 🌐 **Live Web Console (Vercel):** [https://oil-spill-detection-by-hexacrew.vercel.app/](https://oil-spill-detection-by-hexacrew.vercel.app/)  
 > 🌐 **GitHub Pages Mirror:** [https://yashpaghadar.github.io/Oil_Spill_SIH26143/](https://yashpaghadar.github.io/Oil_Spill_SIH26143/)  
 > 📦 **GitHub Repository:** [https://github.com/yashpaghadar/Oil_Spill_SIH26143](https://github.com/yashpaghadar/Oil_Spill_SIH26143)
 
