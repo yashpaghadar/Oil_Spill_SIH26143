@@ -1,0 +1,9 @@
+.venv
+.git
+00023.tiff
+outputs
+*.pt
+*.onnx
+notebooks
+tests
+vault
