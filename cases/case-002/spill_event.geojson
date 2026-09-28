@@ -1,0 +1,73 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          69.72,
+          22.68
+        ],
+        [
+          69.76,
+          22.71
+        ],
+        [
+          69.765,
+          22.708
+        ],
+        [
+          69.725,
+          22.678
+        ],
+        [
+          69.72,
+          22.68
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "detection_id": "DET_20260925_CASE-002",
+    "observation_utc": "2026-09-25T12:00:00+00:00",
+    "area_km2": 2.62,
+    "perimeter_km": 11.69,
+    "length_km": 11.69,
+    "width_km": 1.06,
+    "orientation_deg": 52.0,
+    "elongation": 11.02,
+    "compactness": 0.241,
+    "fragmentation": 1,
+    "centroid": [
+      69.738,
+      22.6912
+    ],
+    "head": [
+      69.765,
+      22.708
+    ],
+    "tail": [
+      69.72,
+      22.68
+    ],
+    "head_tail_resolved_by": "geometry_narrower_end_convention",
+    "wind_speed_ms": 1.53,
+    "wind_from_deg": 200.0,
+    "wind_gate_multiplier": 0.0,
+    "age": {
+      "low_hours": 8.73,
+      "best_hours": 11.44,
+      "high_hours": 18.16,
+      "width_m": 1061.2,
+      "method": "fay_surface_tension",
+      "confidence": "very_low",
+      "explanation": "Fay surface-tension spreading to 1061 m takes 8.7\u201318.2 h for \u03c3 = 0.03\u20130.01 N/m. Real oil spreads faster, so this is a ceiling, not an age."
+    },
+    "confidence": 0.35,
+    "provenance": "SIM",
+    "notes": [
+      "Wind 1.5 m/s is outside the Bragg window; detection confidence is refused.",
+      "Damping contrast is not thickness; no volume is inferred from SAR."
+    ]
+  }
+}

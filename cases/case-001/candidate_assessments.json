@@ -1,42 +1,57 @@
 [
   {
     "vessel_id": "419000101",
+    "label": "MT AL-MARJAN",
+    "vessel_type": "Crude Oil Tanker",
     "rank": 1,
-    "total_score": 0.8152,
+    "total_score": 0.8222,
+    "total_without_drift": 0.8565,
     "evidence_components": {
+      "drift": 0.7422,
       "proximity": 0.873,
-      "timing": 0.6065,
-      "route_fit": 0.8937,
-      "speed_behavior": 1.0,
-      "data_quality": 1.0,
+      "temporality": 0.6065,
+      "parity": 0.8933,
+      "behaviour": 1.0,
+      "prior": 1.0,
       "cpa_distance_km": 1.36,
-      "cpa_time_diff_hours": 1.5
+      "cpa_time_diff_hours": 1.5,
+      "inside_origin_envelope": true,
+      "weights_version": "w1-handset"
     },
     "exclusions": [],
-    "disclaimer": "Candidate vessel assessment based on spatio-temporal correlation. Does not constitute confirmation of causation or legal liability."
+    "verdict": "ranked",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
   },
   {
     "vessel_id": "419000202",
+    "label": "MV PACIFIC VOYAGER",
+    "vessel_type": "Container Ship",
     "rank": -1,
     "total_score": 0.0,
+    "total_without_drift": 0.0,
     "evidence_components": {
       "cpa_distance_km": 48.67
     },
     "exclusions": [
       "spatial_mismatch_cpa_48.7km"
     ],
-    "disclaimer": "Candidate vessel assessment based on spatio-temporal correlation. Does not constitute confirmation of causation or legal liability."
+    "verdict": "excluded",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
   },
   {
     "vessel_id": "419000303",
+    "label": "MV OCEAN PRIDE",
+    "vessel_type": "Bulk Carrier",
     "rank": -1,
     "total_score": 0.0,
+    "total_without_drift": 0.0,
     "evidence_components": {
       "cpa_distance_km": 1.36
     },
     "exclusions": [
       "temporal_mismatch"
     ],
-    "disclaimer": "Candidate vessel assessment based on spatio-temporal correlation. Does not constitute confirmation of causation or legal liability."
+    "verdict": "excluded",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
   }
 ]

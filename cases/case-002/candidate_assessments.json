@@ -1,0 +1,34 @@
+[
+  {
+    "vessel_id": "419000101",
+    "label": "MT AL-MARJAN",
+    "vessel_type": "Crude Oil Tanker",
+    "rank": -1,
+    "total_score": 0.0,
+    "total_without_drift": 0.0,
+    "evidence_components": {
+      "cpa_distance_km": 1.34
+    },
+    "exclusions": [
+      "wind_gate_insufficient_evidence"
+    ],
+    "verdict": "insufficient_evidence",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+  },
+  {
+    "vessel_id": "419000202",
+    "label": "MV PACIFIC VOYAGER",
+    "vessel_type": "Container Ship",
+    "rank": -1,
+    "total_score": 0.0,
+    "total_without_drift": 0.0,
+    "evidence_components": {
+      "cpa_distance_km": 47.49
+    },
+    "exclusions": [
+      "spatial_mismatch_cpa_47.5km"
+    ],
+    "verdict": "excluded",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+  }
+]

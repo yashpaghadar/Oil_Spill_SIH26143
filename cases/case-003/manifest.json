@@ -1,0 +1,28 @@
+{
+  "case_id": "case-003",
+  "description": "Traffic corridor \u2014 two tankers, one separable candidate",
+  "created_utc": "2026-09-28T07:59:55.058579+00:00",
+  "geographic_region": "Bay of Bengal shipping lane (off Chennai / Ennore)",
+  "coordinates": {
+    "longitude": 80.33,
+    "latitude": 13.25
+  },
+  "observation_utc": "2026-09-25T12:00:00+00:00",
+  "provenance": "SIM",
+  "verdict": "candidate_ranked",
+  "artifacts": {
+    "spill_event": "spill_event.geojson",
+    "trajectory_ensemble": "trajectory_ensemble.geojson",
+    "ais_tracks": "synthetic_ais_tracks.csv",
+    "candidate_assessments": "candidate_assessments.json",
+    "dashboard_payload": "dashboard_payload.json"
+  },
+  "assessment_summary": {
+    "total_vessels_evaluated": 4,
+    "ranked_candidates": 2,
+    "excluded_vessels": 2,
+    "top_candidate": "419000404",
+    "top_score": 0.9194,
+    "verdict": "candidate_ranked"
+  }
+}

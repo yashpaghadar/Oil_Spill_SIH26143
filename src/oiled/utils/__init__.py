@@ -8,6 +8,9 @@ from oiled.utils.geometry import (
     compute_orientation_degrees,
     compute_convex_hull,
     to_geojson_polygon,
+    point_in_polygon,
+    pca_length_width_km,
+    axis_endpoints,
 )
 
 __all__ = [
@@ -18,4 +21,7 @@ __all__ = [
     "compute_orientation_degrees",
     "compute_convex_hull",
     "to_geojson_polygon",
+    "point_in_polygon",
+    "pca_length_width_km",
+    "axis_endpoints",
 ]

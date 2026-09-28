@@ -9,6 +9,7 @@ from oiled.drift.simulation import (
     Particle,
     DriftSimulator,
 )
+from oiled.drift.origin_field import OriginField, estimate_origin_field
 
 __all__ = [
     "EnvironmentalProvider",
@@ -16,4 +17,6 @@ __all__ = [
     "SyntheticEnvironmentalProvider",
     "Particle",
     "DriftSimulator",
+    "OriginField",
+    "estimate_origin_field",
 ]

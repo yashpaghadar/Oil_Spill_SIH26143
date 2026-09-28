@@ -7,6 +7,7 @@ import numpy as np
 
 from oiled.data.contracts import TrajectoryEnsemble
 from oiled.drift.environment import EnvironmentalProvider
+from oiled.drift.origin_field import estimate_origin_field
 from oiled.utils.geometry import (
     compute_centroid,
     compute_convex_hull,
@@ -142,10 +143,15 @@ class DriftSimulator:
         envelope_geojson = to_geojson_polygon(hull_coords)
 
         envelope_area_km2, _ = compute_polygon_area_perimeter_km(hull_coords)
+        origin_field = estimate_origin_field(final_coords)
         time_window = (
             min(observation_utc, current_time),
             max(observation_utc, current_time),
         )
+
+        # Keep a subsample of histories for the dashboard hindcast animation.
+        stride = max(1, particle_count // 40)
+        particle_paths = [p.history for p in particles[::stride]]
 
         return TrajectoryEnsemble(
             spill_event_id=spill_event_id,
@@ -159,7 +165,12 @@ class DriftSimulator:
                 "step_minutes": step_minutes,
                 "envelope_area_km2": round(envelope_area_km2, 2),
                 "envelope_centroid": compute_centroid(hull_coords),
+                "origin_sigma_km": origin_field.sigma_km,
+                "origin_area90_km2": origin_field.area90_km2,
+                "origin_insufficient": origin_field.insufficient_evidence,
+                "origin_insufficient_reason": origin_field.reason,
             },
             origin_envelope_geojson=envelope_geojson,
             time_window_utc=time_window,
+            particle_paths=particle_paths,
         )

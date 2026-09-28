@@ -1,0 +1,28 @@
+{
+  "case_id": "case-002",
+  "description": "Honest rejection \u2014 calm wind / Bragg gate closed",
+  "created_utc": "2026-09-28T07:59:55.007647+00:00",
+  "geographic_region": "Gulf of Kutch (calm-wind look-alike regime)",
+  "coordinates": {
+    "longitude": 69.74,
+    "latitude": 22.69
+  },
+  "observation_utc": "2026-09-25T12:00:00+00:00",
+  "provenance": "SIM",
+  "verdict": "insufficient_evidence",
+  "artifacts": {
+    "spill_event": "spill_event.geojson",
+    "trajectory_ensemble": "trajectory_ensemble.geojson",
+    "ais_tracks": "synthetic_ais_tracks.csv",
+    "candidate_assessments": "candidate_assessments.json",
+    "dashboard_payload": "dashboard_payload.json"
+  },
+  "assessment_summary": {
+    "total_vessels_evaluated": 2,
+    "ranked_candidates": 0,
+    "excluded_vessels": 1,
+    "top_candidate": null,
+    "top_score": null,
+    "verdict": "insufficient_evidence"
+  }
+}

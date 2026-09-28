@@ -134,6 +134,67 @@ def compute_convex_hull(points: List[Tuple[float, float]]) -> List[Tuple[float, 
     return hull
 
 
+def point_in_polygon(lon: float, lat: float, coords: List[Tuple[float, float]]) -> bool:
+    """Ray-casting test for a (lon, lat) point against a polygon ring."""
+    if len(coords) < 3:
+        return False
+    pts = list(coords)
+    if pts[0] != pts[-1]:
+        pts.append(pts[0])
+    inside = False
+    j = len(pts) - 1
+    for i in range(len(pts)):
+        xi, yi = pts[i]
+        xj, yj = pts[j]
+        intersects = ((yi > lat) != (yj > lat)) and (
+            lon < (xj - xi) * (lat - yi) / ((yj - yi) or 1e-12) + xi
+        )
+        if intersects:
+            inside = not inside
+        j = i
+    return inside
+
+
+def pca_length_width_km(coords: List[Tuple[float, float]]) -> Tuple[float, float]:
+    """Approximate major/minor axis lengths (km) from a 2-sigma PCA ellipse."""
+    if len(coords) < 3:
+        return 0.0, 0.0
+    mean_lon, mean_lat = compute_centroid(coords)
+    cos_lat = math.cos(math.radians(mean_lat))
+    xs = np.array([(lon - mean_lon) * (METERS_PER_DEG_LAT * cos_lat) / 1000.0 for lon, lat in coords])
+    ys = np.array([(lat - mean_lat) * METERS_PER_DEG_LAT / 1000.0 for lon, lat in coords])
+    cov = np.cov(xs, ys)
+    if cov.shape != (2, 2) or np.isnan(cov).any():
+        return 0.0, 0.0
+    eigenvalues, _ = np.linalg.eigh(cov)
+    eigenvalues = np.clip(eigenvalues, 0.0, None)
+    # 2-sigma extents along principal axes
+    length = 4.0 * math.sqrt(float(eigenvalues.max()))
+    width = 4.0 * math.sqrt(float(eigenvalues.min()))
+    return float(length), float(max(width, 1e-6))
+
+
+def axis_endpoints(
+    coords: List[Tuple[float, float]],
+) -> Tuple[Tuple[float, float], Tuple[float, float]]:
+    """Return the two extreme vertices along the principal axis (narrower-end first)."""
+    if not coords:
+        return (0.0, 0.0), (0.0, 0.0)
+    mean_lon, mean_lat = compute_centroid(coords)
+    cos_lat = math.cos(math.radians(mean_lat))
+    xs = np.array([(lon - mean_lon) * cos_lat for lon, lat in coords])
+    ys = np.array([lat - mean_lat for lon, lat in coords])
+    cov = np.cov(xs, ys)
+    if cov.shape != (2, 2) or np.isnan(cov).any():
+        return coords[0], coords[-1]
+    _, eigenvectors = np.linalg.eigh(cov)
+    major = eigenvectors[:, np.argmax(np.linalg.eigvalsh(cov))]
+    proj = xs * major[0] + ys * major[1]
+    head = coords[int(np.argmin(proj))]
+    tail = coords[int(np.argmax(proj))]
+    return (float(head[0]), float(head[1])), (float(tail[0]), float(tail[1]))
+
+
 def to_geojson_polygon(coords: List[Tuple[float, float]]) -> Dict[str, Any]:
     """Wrap closed coordinates [(lon, lat), ...] into GeoJSON Polygon dict."""
     pts = list(coords)

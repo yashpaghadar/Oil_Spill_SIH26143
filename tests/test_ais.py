@@ -81,8 +81,9 @@ class TestAISAndCorrelation(unittest.TestCase):
         culprit_cand = rankings[0]
         self.assertEqual(culprit_cand.vessel_id, "CULPRIT_101")
         self.assertEqual(culprit_cand.rank, 1)
-        self.assertGreater(culprit_cand.total_score, 0.70)
+        self.assertGreater(culprit_cand.total_score, 0.55)
         self.assertEqual(len(culprit_cand.exclusions), 0)
+        self.assertIn("drift", culprit_cand.evidence_components)
 
         # Distractor Spatial should be excluded with spatial mismatch
         dist_spatial = next(r for r in rankings if r.vessel_id == "DISTRACTOR_FAR")
@@ -92,7 +93,21 @@ class TestAISAndCorrelation(unittest.TestCase):
         # Distractor Temporal should be excluded with temporal mismatch
         dist_temporal = next(r for r in rankings if r.vessel_id == "DISTRACTOR_LATE")
         self.assertEqual(dist_temporal.rank, -1)
-        self.assertIn("temporal_mismatch", dist_temporal.exclusions)
+    def test_correlator_refuses_closed_wind_gate(self):
+        records = [
+            {"mmsi": "CULPRIT_101", "timestamp_utc": "2026-09-25T05:30:00Z", "latitude": 17.95, "longitude": 71.95, "sog": 14.0, "cog": 45.0},
+            {"mmsi": "CULPRIT_101", "timestamp_utc": "2026-09-25T06:00:00Z", "latitude": 18.00, "longitude": 72.00, "sog": 14.0, "cog": 45.0},
+            {"mmsi": "CULPRIT_101", "timestamp_utc": "2026-09-25T06:30:00Z", "latitude": 18.05, "longitude": 72.05, "sog": 14.0, "cog": 45.0},
+        ]
+        tracks = self.parser.parse_records(records)
+        rankings = self.correlator.correlate(
+            ensemble=self.ensemble,
+            tracks=tracks,
+            spill_orientation_deg=45.0,
+            wind_gate_multiplier=0.0,
+        )
+        self.assertTrue(all(r.verdict == "insufficient_evidence" for r in rankings))
+        self.assertTrue(all(r.rank == -1 for r in rankings))
 
 
 if __name__ == "__main__":

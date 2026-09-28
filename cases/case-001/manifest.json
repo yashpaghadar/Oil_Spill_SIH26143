@@ -1,24 +1,28 @@
 {
   "case_id": "case-001",
-  "description": "Synthetic Arabian Sea oil spill incident with origin backtracking and AIS correlation",
-  "created_utc": "2026-09-25T16:36:26.239753+00:00",
+  "description": "Moving tanker discharge \u2014 Arabian Sea off Mumbai",
+  "created_utc": "2026-09-28T07:59:54.957549+00:00",
   "geographic_region": "Arabian Sea (off Mumbai / Maharashtra coast)",
   "coordinates": {
     "longitude": 72.35,
     "latitude": 18.8
   },
   "observation_utc": "2026-09-25T12:00:00+00:00",
+  "provenance": "SIM",
+  "verdict": "candidate_ranked",
   "artifacts": {
     "spill_event": "spill_event.geojson",
     "trajectory_ensemble": "trajectory_ensemble.geojson",
     "ais_tracks": "synthetic_ais_tracks.csv",
-    "candidate_assessments": "candidate_assessments.json"
+    "candidate_assessments": "candidate_assessments.json",
+    "dashboard_payload": "dashboard_payload.json"
   },
   "assessment_summary": {
     "total_vessels_evaluated": 3,
     "ranked_candidates": 1,
     "excluded_vessels": 2,
     "top_candidate": "419000101",
-    "top_score": 0.8152
+    "top_score": 0.8222,
+    "verdict": "candidate_ranked"
   }
 }

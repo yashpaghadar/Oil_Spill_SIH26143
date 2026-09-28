@@ -1,0 +1,72 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          80.28,
+          13.22
+        ],
+        [
+          80.38,
+          13.3
+        ],
+        [
+          80.39,
+          13.292
+        ],
+        [
+          80.29,
+          13.214
+        ],
+        [
+          80.28,
+          13.22
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "detection_id": "DET_20260925_CASE-003",
+    "observation_utc": "2026-09-25T12:00:00+00:00",
+    "area_km2": 17.91,
+    "perimeter_km": 30.54,
+    "length_km": 30.69,
+    "width_km": 2.75,
+    "orientation_deg": 51.9,
+    "elongation": 11.18,
+    "compactness": 0.241,
+    "fragmentation": 1,
+    "centroid": [
+      80.324,
+      13.2492
+    ],
+    "head": [
+      80.39,
+      13.292
+    ],
+    "tail": [
+      80.28,
+      13.22
+    ],
+    "head_tail_resolved_by": "geometry_narrower_end_convention",
+    "wind_speed_ms": 6.91,
+    "wind_from_deg": 228.0,
+    "wind_gate_multiplier": 1.0,
+    "age": {
+      "low_hours": 31.0,
+      "best_hours": 40.62,
+      "high_hours": 64.49,
+      "width_m": 2745.0,
+      "method": "fay_surface_tension",
+      "confidence": "very_low",
+      "explanation": "Fay surface-tension spreading to 2745 m takes 31.0\u201364.5 h for \u03c3 = 0.03\u20130.01 N/m. Real oil spreads faster, so this is a ceiling, not an age."
+    },
+    "confidence": 0.94,
+    "provenance": "SIM",
+    "notes": [
+      "Damping contrast is not thickness; no volume is inferred from SAR."
+    ]
+  }
+}

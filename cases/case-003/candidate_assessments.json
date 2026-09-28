@@ -1,0 +1,80 @@
+[
+  {
+    "vessel_id": "419000404",
+    "label": "MT BHARAT SHAKTI",
+    "vessel_type": "Product Tanker",
+    "rank": 1,
+    "total_score": 0.9194,
+    "total_without_drift": 0.9577,
+    "evidence_components": {
+      "drift": 0.83,
+      "proximity": 0.9995,
+      "temporality": 0.8465,
+      "parity": 0.9567,
+      "behaviour": 1.0,
+      "prior": 1.0,
+      "cpa_distance_km": 0.01,
+      "cpa_time_diff_hours": 0.5,
+      "inside_origin_envelope": true,
+      "weights_version": "w1-handset"
+    },
+    "exclusions": [],
+    "verdict": "ranked",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+  },
+  {
+    "vessel_id": "419000101",
+    "label": "MT AL-MARJAN",
+    "vessel_type": "Crude Oil Tanker",
+    "rank": 2,
+    "total_score": 0.6585,
+    "total_without_drift": 0.7792,
+    "evidence_components": {
+      "drift": 0.377,
+      "proximity": 0.7059,
+      "temporality": 0.3962,
+      "parity": 0.9656,
+      "behaviour": 1.0,
+      "prior": 1.0,
+      "cpa_distance_km": 3.48,
+      "cpa_time_diff_hours": 2.78,
+      "inside_origin_envelope": false,
+      "weights_version": "w1-handset"
+    },
+    "exclusions": [],
+    "verdict": "ranked",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+  },
+  {
+    "vessel_id": "419000202",
+    "label": "MV PACIFIC VOYAGER",
+    "vessel_type": "Container Ship",
+    "rank": -1,
+    "total_score": 0.0,
+    "total_without_drift": 0.0,
+    "evidence_components": {
+      "cpa_distance_km": 49.98
+    },
+    "exclusions": [
+      "spatial_mismatch_cpa_50.0km"
+    ],
+    "verdict": "excluded",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+  },
+  {
+    "vessel_id": "419000505",
+    "label": "MV CHENNAI STAR",
+    "vessel_type": "General Cargo",
+    "rank": -1,
+    "total_score": 0.0,
+    "total_without_drift": 0.0,
+    "evidence_components": {
+      "cpa_distance_km": 1.38
+    },
+    "exclusions": [
+      "temporal_mismatch"
+    ],
+    "verdict": "excluded",
+    "disclaimer": "Candidate scores are spatiotemporal compatibility with a hindcast origin field. They do not confirm causation or legal liability."
+  }
+]

@@ -55,6 +55,10 @@ class SpillEvent:
     centroid: Tuple[float, float]  # (longitude, latitude)
     confidence: float
     uncertainty_flags: List[str] = field(default_factory=list)
+    length_km: Optional[float] = None
+    width_km: Optional[float] = None
+    orientation_deg: Optional[float] = None
+    age_hours: Optional[Dict[str, Any]] = None  # {low, best, high, method} — never a scalar
 
 
 @dataclass
@@ -78,6 +82,7 @@ class TrajectoryEnsemble:
     parameters: Dict[str, Any]  # e.g., windage coefficient, diffusion rate
     origin_envelope_geojson: Optional[Dict[str, Any]] = None
     time_window_utc: Optional[Tuple[datetime, datetime]] = None
+    particle_paths: Optional[List[List[Tuple[datetime, float, float]]]] = None
 
 
 @dataclass
@@ -90,6 +95,8 @@ class VesselTrack:
     cog_degrees: List[float]
     source: str
     quality_flags: List[str] = field(default_factory=list)
+    vessel_name: str = ""
+    vessel_type: str = ""
 
 
 @dataclass
@@ -100,7 +107,10 @@ class CandidateAssessment:
     total_score: float
     evidence_components: Dict[str, float]  # e.g., {'proximity': 0.8, 'timing': 0.7, 'route_fit': 0.9}
     exclusions: List[str] = field(default_factory=list)
+    label: str = ""
+    total_without_drift: float = 0.0
+    verdict: str = "ranked"  # ranked | excluded | insufficient_evidence
     disclaimer: str = (
-        "Candidate vessel assessment based on spatio-temporal correlation. "
-        "Does not constitute confirmation of causation or legal liability."
+        "Candidate scores are spatiotemporal compatibility with a hindcast origin field. "
+        "They do not confirm causation or legal liability."
     )

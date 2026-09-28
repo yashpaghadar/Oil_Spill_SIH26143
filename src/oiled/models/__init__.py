@@ -19,6 +19,15 @@ from oiled.models.evaluation import (
     compute_brier_score,
     evaluate_scene_triage,
 )
+from oiled.models.characterize import (
+    AgeInterval,
+    SlickCharacterization,
+    fay_surface_tension_hours,
+    morphology_age_prior,
+    wind_gate,
+    characterize_slick,
+    characterization_to_dict,
+)
 
 __all__ = [
     "build_unet_segmentation_model",
@@ -34,4 +43,11 @@ __all__ = [
     "compute_expected_calibration_error",
     "compute_brier_score",
     "evaluate_scene_triage",
+    "wind_gate",
+    "fay_surface_tension_hours",
+    "morphology_age_prior",
+    "characterize_slick",
+    "characterization_to_dict",
+    "SlickCharacterization",
+    "AgeInterval",
 ]

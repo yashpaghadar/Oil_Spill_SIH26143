@@ -83,6 +83,11 @@ class AISParser:
                 if delta_h > self.max_gap_hours:
                     quality_flags.add(f"LONG_GAP_{delta_h:.1f}H")
 
+            names = [str(r.get("vessel_name") or r.get("name") or "") for r in rows]
+            types = [str(r.get("vessel_type") or r.get("ship_type") or "") for r in rows]
+            vessel_name = next((n for n in names if n and n != "nan"), "")
+            vessel_type = next((t for t in types if t and t != "nan"), "")
+
             track = VesselTrack(
                 mmsi=mmsi,
                 timestamps_utc=[r["timestamp"] for r in parsed_rows],
@@ -91,6 +96,8 @@ class AISParser:
                 cog_degrees=[r["cog"] for r in parsed_rows],
                 source=source_name,
                 quality_flags=sorted(list(quality_flags)),
+                vessel_name=vessel_name.replace("_", " "),
+                vessel_type=vessel_type,
             )
             tracks[mmsi] = track
 

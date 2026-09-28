@@ -29,6 +29,8 @@ class TestDriftSimulation(unittest.TestCase):
         centroid_lon, centroid_lat = ensemble.parameters["envelope_centroid"]
         self.assertLess(centroid_lon, 72.50, "Origin centroid must be west of observed slick")
         self.assertEqual(ensemble.direction, "backward")
+        self.assertTrue(ensemble.particle_paths)
+        self.assertIn("origin_area90_km2", ensemble.parameters)
 
     def test_uncertainty_widens_origin_envelope(self):
         """Acceptance check: Increasing uncertainty must widen origin region area."""
