@@ -5,13 +5,11 @@
 [![Nodal Agency](https://img.shields.io/badge/Nodal%20Agency-NTRO-red.svg)](https://ntro.gov.in/)
 [![Tests Passing](https://img.shields.io/badge/Unit%20Tests-23%2F23%20Passed-brightgreen.svg)](tests/)
 [![Live App - Vercel](https://img.shields.io/badge/Live%20Console-Vercel%20App-black.svg?logo=vercel)](https://oil-spill-detection-by-hexacrew.vercel.app/)
-[![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-informational.svg?logo=github)](https://yashpaghadar.github.io/Oil_Spill_SIH26143/)
 
 > **Smart India Hackathon 2026** · Problem Statement **SIH26143**  
 > **Nodal Organisation:** National Technical Research Organisation (NTRO)  
 > **Theme:** Disaster Management | **Category:** Software  
 > 🌐 **Live Web Console (Vercel):** [https://oil-spill-detection-by-hexacrew.vercel.app/](https://oil-spill-detection-by-hexacrew.vercel.app/)  
-> 🌐 **GitHub Pages Mirror:** [https://yashpaghadar.github.io/Oil_Spill_SIH26143/](https://yashpaghadar.github.io/Oil_Spill_SIH26143/)  
 > 📦 **GitHub Repository:** [https://github.com/yashpaghadar/Oil_Spill_SIH26143](https://github.com/yashpaghadar/Oil_Spill_SIH26143)
 
 ---
@@ -273,3 +271,13 @@ Attribution scores reflect physical and spatio-temporal compatibility with a met
 - **Problem Statement ID:** SIH26143
 - **Nodal Agency:** National Technical Research Organisation (NTRO)
 - **Theme:** Disaster Management
+
+### Team Member Details 
+| Sr. No. | Name | Enrollment No | Email Address | Role |
+| :--- | :--- | :--- | :--- | :---: |
+| 1 | Fenil Rathod | D26IT117 | D26IT117@charusat.edu.in | 👑 Team Leader (Researcher & Editer) |
+| 2 | Dhruva Savaliya | D26IT107 | D26IT107@charusat.edu.in | Team Member (ML Model Developer & Cloud Expert) |
+| 3 | Bhakti Patel | D26IT133 | D26IT133@charusat.edu.in | Team Member (Cloud & Microsoft Powerpoint Expert) |
+| 4 | Yash Paghadar | D26IT111 | D26IT111@charusat.edu.in | Team Member (Backend Developer & Tester) |
+| 5 | Jash Tannna | D26IT118 | D26IT118@charusat.edu.in | Team Member (Frontend Developer & Researcher)  |
+| 6 | Rushang Savaliya | D26IT125 | D26IT125@charusat.edu.in | Team Member (AI & ML Expert with Satellite Knowledge) |
