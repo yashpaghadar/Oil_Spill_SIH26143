@@ -279,5 +279,5 @@ Attribution scores reflect physical and spatio-temporal compatibility with a met
 | 2 | Dhruva Savaliya | D26IT107 | D26IT107@charusat.edu.in | Team Member (ML Model Developer & Cloud Expert) |
 | 3 | Bhakti Patel | D26IT133 | D26IT133@charusat.edu.in | Team Member (Cloud & Microsoft Powerpoint Expert) |
 | 4 | Yash Paghadar | D26IT111 | D26IT111@charusat.edu.in | Team Member (Backend Developer & Tester) |
-| 5 | Jash Tannna | D26IT118 | D26IT118@charusat.edu.in | Team Member (Frontend Developer & Researcher)  |
+| 5 | Jash Tannna | D26IT119 | D26IT119@charusat.edu.in | Team Member (Frontend Developer & Researcher)  |
 | 6 | Rushang Savaliya | D26IT125 | D26IT125@charusat.edu.in | Team Member (AI & ML Expert with Satellite Knowledge) |
